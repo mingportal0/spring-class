@@ -1,0 +1,59 @@
+2019-08-19 16:11:08,897 DEBUG [main] ehr.UserDao       ( UserDao.java:169)     - ---------------------
+2019-08-19 16:11:08,898 DEBUG [main] ehr.UserDao       ( UserDao.java:170)     - Main
+2019-08-19 16:11:08,898 DEBUG [main] ehr.UserDao       ( UserDao.java:171)     - ---------------------
+2019-08-19 16:11:08,899 DEBUG [main] ehr.UserDao       ( UserDao.java:176)     - =============================
+2019-08-19 16:11:08,899 DEBUG [main] ehr.UserDao       ( UserDao.java:177)     - 단건 등록
+2019-08-19 16:11:08,899 DEBUG [main] ehr.UserDao       ( UserDao.java:178)     - =============================
+2019-08-19 16:11:09,178 DEBUG [main] ehr.UserDao       (DUserDao.java:17)     - ---------------------
+2019-08-19 16:11:09,181 DEBUG [main] ehr.UserDao       (DUserDao.java:18)     - 01. conn : oracle.jdbc.driver.T4CConnection@1f89ab83
+2019-08-19 16:11:09,182 DEBUG [main] ehr.UserDao       (DUserDao.java:19)     - ---------------------
+2019-08-19 16:11:09,182 DEBUG [main] ehr.UserDao       ( UserDao.java:70)     - =============================
+2019-08-19 16:11:09,183 DEBUG [main] ehr.UserDao       ( UserDao.java:71)     - 02. sql=
+ INSERT INTO users (  
+     u_id,            
+     name,            
+     passwd           
+ ) VALUES (           
+     ?,               
+     ?,               
+     ?                
+ )                    
+
+2019-08-19 16:11:09,183 DEBUG [main] ehr.UserDao       ( UserDao.java:72)     - =============================
+2019-08-19 16:11:09,238 DEBUG [main] ehr.UserDao       ( UserDao.java:81)     - =============================
+2019-08-19 16:11:09,238 DEBUG [main] ehr.UserDao       ( UserDao.java:82)     - 03. param=User [u_id=j01_125, name=노명진, passwd=1234]
+2019-08-19 16:11:09,238 DEBUG [main] ehr.UserDao       ( UserDao.java:83)     - =============================
+2019-08-19 16:11:09,242 DEBUG [main] ehr.UserDao       ( UserDao.java:89)     - =============================
+2019-08-19 16:11:09,243 DEBUG [main] ehr.UserDao       ( UserDao.java:90)     - 03. Run flag=1
+2019-08-19 16:11:09,243 DEBUG [main] ehr.UserDao       ( UserDao.java:91)     - =============================
+2019-08-19 16:11:09,244 DEBUG [main] ehr.UserDao       ( UserDao.java:181)     - =============================
+2019-08-19 16:11:09,244 DEBUG [main] ehr.UserDao       ( UserDao.java:182)     - 01. add flag=1
+2019-08-19 16:11:09,244 DEBUG [main] ehr.UserDao       ( UserDao.java:183)     - =============================
+2019-08-19 16:11:09,244 DEBUG [main] ehr.UserDao       ( UserDao.java:186)     - =============================
+2019-08-19 16:11:09,244 DEBUG [main] ehr.UserDao       ( UserDao.java:187)     - 등록 성공j01_125
+2019-08-19 16:11:09,245 DEBUG [main] ehr.UserDao       ( UserDao.java:188)     - =============================
+2019-08-19 16:11:09,245 DEBUG [main] ehr.UserDao       ( UserDao.java:190)     - =============================
+2019-08-19 16:11:09,245 DEBUG [main] ehr.UserDao       ( UserDao.java:191)     - 단건 조회
+2019-08-19 16:11:09,245 DEBUG [main] ehr.UserDao       ( UserDao.java:192)     - =============================
+2019-08-19 16:11:09,273 DEBUG [main] ehr.UserDao       (DUserDao.java:17)     - ---------------------
+2019-08-19 16:11:09,274 DEBUG [main] ehr.UserDao       (DUserDao.java:18)     - 01. conn : oracle.jdbc.driver.T4CConnection@5025a98f
+2019-08-19 16:11:09,274 DEBUG [main] ehr.UserDao       (DUserDao.java:19)     - ---------------------
+2019-08-19 16:11:09,274 DEBUG [main] ehr.UserDao       ( UserDao.java:131)     - =============================
+2019-08-19 16:11:09,274 DEBUG [main] ehr.UserDao       ( UserDao.java:132)     - 02. sql=
+ SELECT         
+     u_id,      
+     name,      
+     passwd     
+ FROM users     
+ WHERE u_id = ? 
+
+2019-08-19 16:11:09,275 DEBUG [main] ehr.UserDao       ( UserDao.java:133)     - =============================
+2019-08-19 16:11:09,275 DEBUG [main] ehr.UserDao       ( UserDao.java:140)     - =============================
+2019-08-19 16:11:09,275 DEBUG [main] ehr.UserDao       ( UserDao.java:141)     - 03. param=j01_125
+2019-08-19 16:11:09,275 DEBUG [main] ehr.UserDao       ( UserDao.java:142)     - =============================
+2019-08-19 16:11:09,289 DEBUG [main] ehr.UserDao       ( UserDao.java:154)     - =============================
+2019-08-19 16:11:09,290 DEBUG [main] ehr.UserDao       ( UserDao.java:155)     - 04. output=User [u_id=j01_125, name=노명진, passwd=1234]
+2019-08-19 16:11:09,290 DEBUG [main] ehr.UserDao       ( UserDao.java:156)     - =============================
+2019-08-19 16:11:09,291 DEBUG [main] ehr.UserDao       ( UserDao.java:199)     - =============================
+2019-08-19 16:11:09,291 DEBUG [main] ehr.UserDao       ( UserDao.java:200)     - 조회 성공User [u_id=j01_125, name=노명진, passwd=1234]
+2019-08-19 16:11:09,291 DEBUG [main] ehr.UserDao       ( UserDao.java:201)     - =============================

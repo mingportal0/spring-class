@@ -1,0 +1,66 @@
+package com.ehr;
+
+import org.apache.log4j.Logger;
+
+public class SamsungTV implements Tv {
+	
+	private String brandNm = "Samsung";
+	private int price;
+	
+	private Speaker speaker;
+	
+	public SamsungTV() {
+	}
+	
+	public SamsungTV(Speaker speaker) {
+		this.speaker = speaker;
+	}
+	
+	public SamsungTV(Speaker speaker, int price) {
+		LOG.info("------------------------------------");
+		LOG.info(brandNm+" 생성자 speaker : "+speaker);
+		LOG.info(brandNm+" 생성자 price : "+price);
+		LOG.info("------------------------------------");
+		this.speaker = speaker;
+		this.price = price;
+	}
+
+
+
+	public void destroyMethod() {
+		LOG.info("------------------------------------");
+		LOG.info("destroy : 객체 반환");
+		LOG.info("------------------------------------");
+	}
+	
+	public void initMethod() {
+		LOG.info("------------------------------------");
+		LOG.info("init : 초기화");
+		LOG.info("------------------------------------");
+	}
+	
+	@Override
+	public void powerOn() {
+		LOG.info("------------------------------------");
+		LOG.info("powerOn : "+brandNm+" TV의 전원을 켠  다.");
+		LOG.info("------------------------------------");
+	}
+
+	@Override
+	public void powerOff() {
+		LOG.info("------------------------------------");
+		LOG.info("powerOn : "+brandNm+" TV의 전원을 끈  다.");
+		LOG.info("------------------------------------");
+	}
+
+	@Override
+	public void volumeUp() {
+		speaker.volumeUp();
+	}
+
+	@Override
+	public void volumeDown() {
+		speaker.volumeDown();
+	}
+
+}

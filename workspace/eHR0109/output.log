@@ -1,0 +1,123 @@
+2019-08-20 16:23:04,865 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext01.xml]
+2019-08-20 16:23:04,938 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:23:04 KST 2019]; root of context hierarchy
+2019-08-20 16:23:04,972 INFO  [main] ehr.Speaker       (SonySpeaker.java:7)     - ------------------------------------
+2019-08-20 16:23:04,972 INFO  [main] ehr.Speaker       (SonySpeaker.java:8)     - SonySpeaker 생성자
+2019-08-20 16:23:04,972 INFO  [main] ehr.Speaker       (SonySpeaker.java:9)     - ------------------------------------
+2019-08-20 16:23:04,975 WARN  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:551)     - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'samsungTV' defined in class path resource [applicationContext01.xml]: Could not resolve matching constructor (hint: specify index/type/name arguments for simple parameters to avoid type ambiguities)
+2019-08-20 16:34:03,754 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext01.xml]
+2019-08-20 16:36:07,166 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext01.xml]
+2019-08-20 16:36:07,238 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:36:07 KST 2019]; root of context hierarchy
+2019-08-20 16:36:07,261 INFO  [main] ehr.Speaker       (SonySpeaker.java:7)     - ------------------------------------
+2019-08-20 16:36:07,262 INFO  [main] ehr.Speaker       (SonySpeaker.java:8)     - SonySpeaker 생성자
+2019-08-20 16:36:07,262 INFO  [main] ehr.Speaker       (SonySpeaker.java:9)     - ------------------------------------
+2019-08-20 16:36:07,270 INFO  [main] ehr.Speaker       (AppleSpeaker.java:7)     - ------------------------------------
+2019-08-20 16:36:07,270 INFO  [main] ehr.Speaker       (AppleSpeaker.java:8)     - AppleSpeaker 생성자
+2019-08-20 16:36:07,270 INFO  [main] ehr.Speaker       (AppleSpeaker.java:9)     - ------------------------------------
+2019-08-20 16:36:07,285 INFO  [main] ehr.TvClient      (TvClient.java:12)     - ----------------------------------
+2019-08-20 16:36:07,285 INFO  [main] ehr.TvClient      (TvClient.java:13)     - context : org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:36:07 KST 2019]; root of context hierarchy
+2019-08-20 16:36:07,286 INFO  [main] ehr.TvClient      (TvClient.java:14)     - ----------------------------------
+2019-08-20 16:36:07,286 INFO  [main] ehr.Tv            (SamsungTV.java:33)     - ------------------------------------
+2019-08-20 16:36:07,286 INFO  [main] ehr.Tv            (SamsungTV.java:34)     - powerOn : Samsung TV의 전원을 켠  다.
+2019-08-20 16:36:07,286 INFO  [main] ehr.Tv            (SamsungTV.java:35)     - ------------------------------------
+2019-08-20 16:36:07,286 INFO  [main] ehr.Tv            (SamsungTV.java:47)     - ------------------------------------
+2019-08-20 16:36:07,286 INFO  [main] ehr.Speaker       (AppleSpeaker.java:14)     - ------------------------------------
+2019-08-20 16:36:07,287 INFO  [main] ehr.Speaker       (AppleSpeaker.java:15)     - powerOn : AppleSpeaker의 볼륨을 높인다.
+2019-08-20 16:36:07,287 INFO  [main] ehr.Speaker       (AppleSpeaker.java:16)     - ------------------------------------
+2019-08-20 16:36:07,287 INFO  [main] ehr.Tv            (SamsungTV.java:49)     - ------------------------------------
+2019-08-20 16:36:07,287 INFO  [main] ehr.Tv            (SamsungTV.java:54)     - ------------------------------------
+2019-08-20 16:36:07,287 INFO  [main] ehr.Speaker       (AppleSpeaker.java:21)     - ------------------------------------
+2019-08-20 16:36:07,287 INFO  [main] ehr.Speaker       (AppleSpeaker.java:22)     - powerOn : AppleSpeaker의 볼륨을 높인다.
+2019-08-20 16:36:07,287 INFO  [main] ehr.Speaker       (AppleSpeaker.java:23)     - ------------------------------------
+2019-08-20 16:36:07,288 INFO  [main] ehr.Tv            (SamsungTV.java:56)     - ------------------------------------
+2019-08-20 16:36:07,288 INFO  [main] ehr.Tv            (SamsungTV.java:40)     - ------------------------------------
+2019-08-20 16:36:07,288 INFO  [main] ehr.Tv            (SamsungTV.java:41)     - powerOn : Samsung TV의 전원을 끈  다.
+2019-08-20 16:36:07,288 INFO  [main] ehr.Tv            (SamsungTV.java:42)     - ------------------------------------
+2019-08-20 16:45:52,332 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext01.xml]
+2019-08-20 16:45:52,404 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:45:52 KST 2019]; root of context hierarchy
+2019-08-20 16:45:52,427 INFO  [main] ehr.Speaker       (SonySpeaker.java:7)     - ------------------------------------
+2019-08-20 16:45:52,428 INFO  [main] ehr.Speaker       (SonySpeaker.java:8)     - SonySpeaker 생성자
+2019-08-20 16:45:52,428 INFO  [main] ehr.Speaker       (SonySpeaker.java:9)     - ------------------------------------
+2019-08-20 16:45:52,436 INFO  [main] ehr.Speaker       (AppleSpeaker.java:7)     - ------------------------------------
+2019-08-20 16:45:52,436 INFO  [main] ehr.Speaker       (AppleSpeaker.java:8)     - AppleSpeaker 생성자
+2019-08-20 16:45:52,437 INFO  [main] ehr.Speaker       (AppleSpeaker.java:9)     - ------------------------------------
+2019-08-20 16:45:52,452 INFO  [main] ehr.Tv            (SamsungTV.java:20)     - ------------------------------------
+2019-08-20 16:45:52,453 INFO  [main] ehr.Tv            (SamsungTV.java:21)     - Samsung 생성자 speaker : com.ehr.AppleSpeaker@4566e5bd
+2019-08-20 16:45:52,453 INFO  [main] ehr.Tv            (SamsungTV.java:22)     - Samsung 생성자 price : 100000000
+2019-08-20 16:45:52,453 INFO  [main] ehr.Tv            (SamsungTV.java:23)     - ------------------------------------
+2019-08-20 16:45:52,457 INFO  [main] ehr.TvClient      (TvClient.java:12)     - ----------------------------------
+2019-08-20 16:45:52,458 INFO  [main] ehr.TvClient      (TvClient.java:13)     - context : org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:45:52 KST 2019]; root of context hierarchy
+2019-08-20 16:45:52,458 INFO  [main] ehr.TvClient      (TvClient.java:14)     - ----------------------------------
+2019-08-20 16:45:52,458 INFO  [main] ehr.Tv            (SamsungTV.java:44)     - ------------------------------------
+2019-08-20 16:45:52,459 INFO  [main] ehr.Tv            (SamsungTV.java:45)     - powerOn : Samsung TV의 전원을 켠  다.
+2019-08-20 16:45:52,459 INFO  [main] ehr.Tv            (SamsungTV.java:46)     - ------------------------------------
+2019-08-20 16:45:52,459 INFO  [main] ehr.Tv            (SamsungTV.java:58)     - ------------------------------------
+2019-08-20 16:45:52,459 INFO  [main] ehr.Speaker       (AppleSpeaker.java:14)     - ------------------------------------
+2019-08-20 16:45:52,459 INFO  [main] ehr.Speaker       (AppleSpeaker.java:15)     - powerOn : AppleSpeaker의 볼륨을 높인다.
+2019-08-20 16:45:52,459 INFO  [main] ehr.Speaker       (AppleSpeaker.java:16)     - ------------------------------------
+2019-08-20 16:45:52,459 INFO  [main] ehr.Tv            (SamsungTV.java:60)     - ------------------------------------
+2019-08-20 16:45:52,459 INFO  [main] ehr.Tv            (SamsungTV.java:65)     - ------------------------------------
+2019-08-20 16:45:52,460 INFO  [main] ehr.Speaker       (AppleSpeaker.java:21)     - ------------------------------------
+2019-08-20 16:45:52,460 INFO  [main] ehr.Speaker       (AppleSpeaker.java:22)     - powerOn : AppleSpeaker의 볼륨을 높인다.
+2019-08-20 16:45:52,460 INFO  [main] ehr.Speaker       (AppleSpeaker.java:23)     - ------------------------------------
+2019-08-20 16:45:52,460 INFO  [main] ehr.Tv            (SamsungTV.java:67)     - ------------------------------------
+2019-08-20 16:45:52,460 INFO  [main] ehr.Tv            (SamsungTV.java:51)     - ------------------------------------
+2019-08-20 16:45:52,460 INFO  [main] ehr.Tv            (SamsungTV.java:52)     - powerOn : Samsung TV의 전원을 끈  다.
+2019-08-20 16:45:52,460 INFO  [main] ehr.Tv            (SamsungTV.java:53)     - ------------------------------------
+2019-08-20 16:46:29,674 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext01.xml]
+2019-08-20 16:46:29,746 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:46:29 KST 2019]; root of context hierarchy
+2019-08-20 16:46:29,769 INFO  [main] ehr.Speaker       (SonySpeaker.java:7)     - ------------------------------------
+2019-08-20 16:46:29,770 INFO  [main] ehr.Speaker       (SonySpeaker.java:8)     - SonySpeaker 생성자
+2019-08-20 16:46:29,770 INFO  [main] ehr.Speaker       (SonySpeaker.java:9)     - ------------------------------------
+2019-08-20 16:46:29,778 INFO  [main] ehr.Speaker       (AppleSpeaker.java:7)     - ------------------------------------
+2019-08-20 16:46:29,778 INFO  [main] ehr.Speaker       (AppleSpeaker.java:8)     - AppleSpeaker 생성자
+2019-08-20 16:46:29,778 INFO  [main] ehr.Speaker       (AppleSpeaker.java:9)     - ------------------------------------
+2019-08-20 16:46:29,795 INFO  [main] ehr.Tv            (SamsungTV.java:20)     - ------------------------------------
+2019-08-20 16:46:29,795 INFO  [main] ehr.Tv            (SamsungTV.java:21)     - Samsung 생성자 speaker : com.ehr.AppleSpeaker@4566e5bd
+2019-08-20 16:46:29,795 INFO  [main] ehr.Tv            (SamsungTV.java:22)     - Samsung 생성자 price : 100000000
+2019-08-20 16:46:29,795 INFO  [main] ehr.Tv            (SamsungTV.java:23)     - ------------------------------------
+2019-08-20 16:46:29,800 INFO  [main] ehr.TvClient      (TvClient.java:12)     - ----------------------------------
+2019-08-20 16:46:29,800 INFO  [main] ehr.TvClient      (TvClient.java:13)     - context : org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:46:29 KST 2019]; root of context hierarchy
+2019-08-20 16:46:29,800 INFO  [main] ehr.TvClient      (TvClient.java:14)     - ----------------------------------
+2019-08-20 16:46:29,800 INFO  [main] ehr.Tv            (SamsungTV.java:44)     - ------------------------------------
+2019-08-20 16:46:29,801 INFO  [main] ehr.Tv            (SamsungTV.java:45)     - powerOn : Samsung TV의 전원을 켠  다.
+2019-08-20 16:46:29,801 INFO  [main] ehr.Tv            (SamsungTV.java:46)     - ------------------------------------
+2019-08-20 16:46:29,801 INFO  [main] ehr.Tv            (SamsungTV.java:58)     - ------------------------------------
+2019-08-20 16:46:29,801 INFO  [main] ehr.Speaker       (AppleSpeaker.java:14)     - ------------------------------------
+2019-08-20 16:46:29,801 INFO  [main] ehr.Speaker       (AppleSpeaker.java:15)     - powerOn : AppleSpeaker의 볼륨을 높인다.
+2019-08-20 16:46:29,801 INFO  [main] ehr.Speaker       (AppleSpeaker.java:16)     - ------------------------------------
+2019-08-20 16:46:29,801 INFO  [main] ehr.Tv            (SamsungTV.java:60)     - ------------------------------------
+2019-08-20 16:46:29,801 INFO  [main] ehr.Tv            (SamsungTV.java:65)     - ------------------------------------
+2019-08-20 16:46:29,802 INFO  [main] ehr.Speaker       (AppleSpeaker.java:21)     - ------------------------------------
+2019-08-20 16:46:29,802 INFO  [main] ehr.Speaker       (AppleSpeaker.java:22)     - powerOn : AppleSpeaker의 볼륨을 낮춘다.
+2019-08-20 16:46:29,802 INFO  [main] ehr.Speaker       (AppleSpeaker.java:23)     - ------------------------------------
+2019-08-20 16:46:29,802 INFO  [main] ehr.Tv            (SamsungTV.java:67)     - ------------------------------------
+2019-08-20 16:46:29,802 INFO  [main] ehr.Tv            (SamsungTV.java:51)     - ------------------------------------
+2019-08-20 16:46:29,802 INFO  [main] ehr.Tv            (SamsungTV.java:52)     - powerOn : Samsung TV의 전원을 끈  다.
+2019-08-20 16:46:29,802 INFO  [main] ehr.Tv            (SamsungTV.java:53)     - ------------------------------------
+2019-08-20 16:47:26,913 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext01.xml]
+2019-08-20 16:47:26,987 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:47:26 KST 2019]; root of context hierarchy
+2019-08-20 16:47:27,010 INFO  [main] ehr.Speaker       (SonySpeaker.java:7)     - ------------------------------------
+2019-08-20 16:47:27,011 INFO  [main] ehr.Speaker       (SonySpeaker.java:8)     - SonySpeaker 생성자
+2019-08-20 16:47:27,011 INFO  [main] ehr.Speaker       (SonySpeaker.java:9)     - ------------------------------------
+2019-08-20 16:47:27,021 INFO  [main] ehr.Speaker       (AppleSpeaker.java:7)     - ------------------------------------
+2019-08-20 16:47:27,021 INFO  [main] ehr.Speaker       (AppleSpeaker.java:8)     - AppleSpeaker 생성자
+2019-08-20 16:47:27,021 INFO  [main] ehr.Speaker       (AppleSpeaker.java:9)     - ------------------------------------
+2019-08-20 16:47:27,036 INFO  [main] ehr.Tv            (SamsungTV.java:20)     - ------------------------------------
+2019-08-20 16:47:27,036 INFO  [main] ehr.Tv            (SamsungTV.java:21)     - Samsung 생성자 speaker : com.ehr.AppleSpeaker@4566e5bd
+2019-08-20 16:47:27,036 INFO  [main] ehr.Tv            (SamsungTV.java:22)     - Samsung 생성자 price : 100000000
+2019-08-20 16:47:27,037 INFO  [main] ehr.Tv            (SamsungTV.java:23)     - ------------------------------------
+2019-08-20 16:47:27,041 INFO  [main] ehr.TvClient      (TvClient.java:12)     - ----------------------------------
+2019-08-20 16:47:27,042 INFO  [main] ehr.TvClient      (TvClient.java:13)     - context : org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:47:26 KST 2019]; root of context hierarchy
+2019-08-20 16:47:27,042 INFO  [main] ehr.TvClient      (TvClient.java:14)     - ----------------------------------
+2019-08-20 16:47:27,042 INFO  [main] ehr.Tv            (SamsungTV.java:44)     - ------------------------------------
+2019-08-20 16:47:27,042 INFO  [main] ehr.Tv            (SamsungTV.java:45)     - powerOn : Samsung TV의 전원을 켠  다.
+2019-08-20 16:47:27,043 INFO  [main] ehr.Tv            (SamsungTV.java:46)     - ------------------------------------
+2019-08-20 16:47:27,043 INFO  [main] ehr.Speaker       (AppleSpeaker.java:14)     - ------------------------------------
+2019-08-20 16:47:27,043 INFO  [main] ehr.Speaker       (AppleSpeaker.java:15)     - powerOn : AppleSpeaker의 볼륨을 높인다.
+2019-08-20 16:47:27,043 INFO  [main] ehr.Speaker       (AppleSpeaker.java:16)     - ------------------------------------
+2019-08-20 16:47:27,043 INFO  [main] ehr.Speaker       (AppleSpeaker.java:21)     - ------------------------------------
+2019-08-20 16:47:27,043 INFO  [main] ehr.Speaker       (AppleSpeaker.java:22)     - powerOn : AppleSpeaker의 볼륨을 낮춘다.
+2019-08-20 16:47:27,043 INFO  [main] ehr.Speaker       (AppleSpeaker.java:23)     - ------------------------------------
+2019-08-20 16:47:27,043 INFO  [main] ehr.Tv            (SamsungTV.java:51)     - ------------------------------------
+2019-08-20 16:47:27,043 INFO  [main] ehr.Tv            (SamsungTV.java:52)     - powerOn : Samsung TV의 전원을 끈  다.
+2019-08-20 16:47:27,043 INFO  [main] ehr.Tv            (SamsungTV.java:53)     - ------------------------------------

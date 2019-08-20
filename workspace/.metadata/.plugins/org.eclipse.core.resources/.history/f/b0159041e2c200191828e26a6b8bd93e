@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.ehr;
+
+/**
+ * @author sist
+ *
+ */
+public interface ConnectionMaker {
+
+}

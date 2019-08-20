@@ -1,0 +1,65 @@
+2019-08-20 09:17:35 DEBUG UserDao:178 - ---------------------
+2019-08-20 09:17:35 DEBUG UserDao:179 - Main
+2019-08-20 09:17:35 DEBUG UserDao:180 - ---------------------
+2019-08-20 09:17:35 DEBUG UserDao:185 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:186 - 단건 등록
+2019-08-20 09:17:35 DEBUG UserDao:187 - =============================
+2019-08-20 09:17:35 DEBUG SimpleConnectionMaker:19 - ---------------------
+2019-08-20 09:17:35 DEBUG SimpleConnectionMaker:20 - 01. conn : oracle.jdbc.driver.T4CConnection@1f89ab83
+2019-08-20 09:17:35 DEBUG SimpleConnectionMaker:21 - ---------------------
+2019-08-20 09:17:35 DEBUG UserDao:58 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:59 - 01. Connection=oracle.jdbc.driver.T4CConnection@1f89ab83
+2019-08-20 09:17:35 DEBUG UserDao:60 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:76 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:77 - 02. sql=
+ INSERT INTO users (  
+     u_id,            
+     name,            
+     passwd           
+ ) VALUES (           
+     ?,               
+     ?,               
+     ?                
+ )                    
+
+2019-08-20 09:17:35 DEBUG UserDao:78 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:87 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:88 - 03. param=User [u_id=j01_125, name=노명진, passwd=1234]
+2019-08-20 09:17:35 DEBUG UserDao:89 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:95 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:96 - 03. Run flag=1
+2019-08-20 09:17:35 DEBUG UserDao:97 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:190 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:191 - 01. add flag=1
+2019-08-20 09:17:35 DEBUG UserDao:192 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:195 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:196 - 등록 성공j01_125
+2019-08-20 09:17:35 DEBUG UserDao:197 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:199 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:200 - 단건 조회
+2019-08-20 09:17:35 DEBUG UserDao:201 - =============================
+2019-08-20 09:17:35 DEBUG SimpleConnectionMaker:19 - ---------------------
+2019-08-20 09:17:35 DEBUG SimpleConnectionMaker:20 - 01. conn : oracle.jdbc.driver.T4CConnection@5025a98f
+2019-08-20 09:17:35 DEBUG SimpleConnectionMaker:21 - ---------------------
+2019-08-20 09:17:35 DEBUG UserDao:125 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:126 - 01. Connection=oracle.jdbc.driver.T4CConnection@5025a98f
+2019-08-20 09:17:35 DEBUG UserDao:127 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:140 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:141 - 02. sql=
+ SELECT         
+     u_id,      
+     name,      
+     passwd     
+ FROM users     
+ WHERE u_id = ? 
+
+2019-08-20 09:17:35 DEBUG UserDao:142 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:149 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:150 - 03. param=j01_125
+2019-08-20 09:17:35 DEBUG UserDao:151 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:163 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:164 - 04. output=User [u_id=j01_125, name=노명진, passwd=1234]
+2019-08-20 09:17:35 DEBUG UserDao:165 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:208 - =============================
+2019-08-20 09:17:35 DEBUG UserDao:209 - 조회 성공User [u_id=j01_125, name=노명진, passwd=1234]
+2019-08-20 09:17:35 DEBUG UserDao:210 - =============================

@@ -1,0 +1,11 @@
+package com.ehr;
+
+public class DaoFactory {
+	/*
+	 * UserDao.java
+	   BoardDao.java
+	 */
+	public UserDao userDao() {
+		
+	}
+}

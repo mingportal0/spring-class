@@ -1,0 +1,17 @@
+package com.ehr;
+
+public class SonySpeaker implements Speaker {
+
+	@Override
+	public void volumeUp() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void volumeDown() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

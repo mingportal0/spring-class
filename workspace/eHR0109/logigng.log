@@ -1,0 +1,123 @@
+2019-08-20 16:23:04 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext01.xml]
+2019-08-20 16:23:04 INFO  GenericXmlApplicationContext:583 - Refreshing org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:23:04 KST 2019]; root of context hierarchy
+2019-08-20 16:23:04 INFO  Speaker:7 - ------------------------------------
+2019-08-20 16:23:04 INFO  Speaker:8 - SonySpeaker 생성자
+2019-08-20 16:23:04 INFO  Speaker:9 - ------------------------------------
+2019-08-20 16:23:04 WARN  GenericXmlApplicationContext:551 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'samsungTV' defined in class path resource [applicationContext01.xml]: Could not resolve matching constructor (hint: specify index/type/name arguments for simple parameters to avoid type ambiguities)
+2019-08-20 16:34:03 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext01.xml]
+2019-08-20 16:36:07 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext01.xml]
+2019-08-20 16:36:07 INFO  GenericXmlApplicationContext:583 - Refreshing org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:36:07 KST 2019]; root of context hierarchy
+2019-08-20 16:36:07 INFO  Speaker:7 - ------------------------------------
+2019-08-20 16:36:07 INFO  Speaker:8 - SonySpeaker 생성자
+2019-08-20 16:36:07 INFO  Speaker:9 - ------------------------------------
+2019-08-20 16:36:07 INFO  Speaker:7 - ------------------------------------
+2019-08-20 16:36:07 INFO  Speaker:8 - AppleSpeaker 생성자
+2019-08-20 16:36:07 INFO  Speaker:9 - ------------------------------------
+2019-08-20 16:36:07 INFO  TvClient:12 - ----------------------------------
+2019-08-20 16:36:07 INFO  TvClient:13 - context : org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:36:07 KST 2019]; root of context hierarchy
+2019-08-20 16:36:07 INFO  TvClient:14 - ----------------------------------
+2019-08-20 16:36:07 INFO  Tv:33 - ------------------------------------
+2019-08-20 16:36:07 INFO  Tv:34 - powerOn : Samsung TV의 전원을 켠  다.
+2019-08-20 16:36:07 INFO  Tv:35 - ------------------------------------
+2019-08-20 16:36:07 INFO  Tv:47 - ------------------------------------
+2019-08-20 16:36:07 INFO  Speaker:14 - ------------------------------------
+2019-08-20 16:36:07 INFO  Speaker:15 - powerOn : AppleSpeaker의 볼륨을 높인다.
+2019-08-20 16:36:07 INFO  Speaker:16 - ------------------------------------
+2019-08-20 16:36:07 INFO  Tv:49 - ------------------------------------
+2019-08-20 16:36:07 INFO  Tv:54 - ------------------------------------
+2019-08-20 16:36:07 INFO  Speaker:21 - ------------------------------------
+2019-08-20 16:36:07 INFO  Speaker:22 - powerOn : AppleSpeaker의 볼륨을 높인다.
+2019-08-20 16:36:07 INFO  Speaker:23 - ------------------------------------
+2019-08-20 16:36:07 INFO  Tv:56 - ------------------------------------
+2019-08-20 16:36:07 INFO  Tv:40 - ------------------------------------
+2019-08-20 16:36:07 INFO  Tv:41 - powerOn : Samsung TV의 전원을 끈  다.
+2019-08-20 16:36:07 INFO  Tv:42 - ------------------------------------
+2019-08-20 16:45:52 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext01.xml]
+2019-08-20 16:45:52 INFO  GenericXmlApplicationContext:583 - Refreshing org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:45:52 KST 2019]; root of context hierarchy
+2019-08-20 16:45:52 INFO  Speaker:7 - ------------------------------------
+2019-08-20 16:45:52 INFO  Speaker:8 - SonySpeaker 생성자
+2019-08-20 16:45:52 INFO  Speaker:9 - ------------------------------------
+2019-08-20 16:45:52 INFO  Speaker:7 - ------------------------------------
+2019-08-20 16:45:52 INFO  Speaker:8 - AppleSpeaker 생성자
+2019-08-20 16:45:52 INFO  Speaker:9 - ------------------------------------
+2019-08-20 16:45:52 INFO  Tv:20 - ------------------------------------
+2019-08-20 16:45:52 INFO  Tv:21 - Samsung 생성자 speaker : com.ehr.AppleSpeaker@4566e5bd
+2019-08-20 16:45:52 INFO  Tv:22 - Samsung 생성자 price : 100000000
+2019-08-20 16:45:52 INFO  Tv:23 - ------------------------------------
+2019-08-20 16:45:52 INFO  TvClient:12 - ----------------------------------
+2019-08-20 16:45:52 INFO  TvClient:13 - context : org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:45:52 KST 2019]; root of context hierarchy
+2019-08-20 16:45:52 INFO  TvClient:14 - ----------------------------------
+2019-08-20 16:45:52 INFO  Tv:44 - ------------------------------------
+2019-08-20 16:45:52 INFO  Tv:45 - powerOn : Samsung TV의 전원을 켠  다.
+2019-08-20 16:45:52 INFO  Tv:46 - ------------------------------------
+2019-08-20 16:45:52 INFO  Tv:58 - ------------------------------------
+2019-08-20 16:45:52 INFO  Speaker:14 - ------------------------------------
+2019-08-20 16:45:52 INFO  Speaker:15 - powerOn : AppleSpeaker의 볼륨을 높인다.
+2019-08-20 16:45:52 INFO  Speaker:16 - ------------------------------------
+2019-08-20 16:45:52 INFO  Tv:60 - ------------------------------------
+2019-08-20 16:45:52 INFO  Tv:65 - ------------------------------------
+2019-08-20 16:45:52 INFO  Speaker:21 - ------------------------------------
+2019-08-20 16:45:52 INFO  Speaker:22 - powerOn : AppleSpeaker의 볼륨을 높인다.
+2019-08-20 16:45:52 INFO  Speaker:23 - ------------------------------------
+2019-08-20 16:45:52 INFO  Tv:67 - ------------------------------------
+2019-08-20 16:45:52 INFO  Tv:51 - ------------------------------------
+2019-08-20 16:45:52 INFO  Tv:52 - powerOn : Samsung TV의 전원을 끈  다.
+2019-08-20 16:45:52 INFO  Tv:53 - ------------------------------------
+2019-08-20 16:46:29 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext01.xml]
+2019-08-20 16:46:29 INFO  GenericXmlApplicationContext:583 - Refreshing org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:46:29 KST 2019]; root of context hierarchy
+2019-08-20 16:46:29 INFO  Speaker:7 - ------------------------------------
+2019-08-20 16:46:29 INFO  Speaker:8 - SonySpeaker 생성자
+2019-08-20 16:46:29 INFO  Speaker:9 - ------------------------------------
+2019-08-20 16:46:29 INFO  Speaker:7 - ------------------------------------
+2019-08-20 16:46:29 INFO  Speaker:8 - AppleSpeaker 생성자
+2019-08-20 16:46:29 INFO  Speaker:9 - ------------------------------------
+2019-08-20 16:46:29 INFO  Tv:20 - ------------------------------------
+2019-08-20 16:46:29 INFO  Tv:21 - Samsung 생성자 speaker : com.ehr.AppleSpeaker@4566e5bd
+2019-08-20 16:46:29 INFO  Tv:22 - Samsung 생성자 price : 100000000
+2019-08-20 16:46:29 INFO  Tv:23 - ------------------------------------
+2019-08-20 16:46:29 INFO  TvClient:12 - ----------------------------------
+2019-08-20 16:46:29 INFO  TvClient:13 - context : org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:46:29 KST 2019]; root of context hierarchy
+2019-08-20 16:46:29 INFO  TvClient:14 - ----------------------------------
+2019-08-20 16:46:29 INFO  Tv:44 - ------------------------------------
+2019-08-20 16:46:29 INFO  Tv:45 - powerOn : Samsung TV의 전원을 켠  다.
+2019-08-20 16:46:29 INFO  Tv:46 - ------------------------------------
+2019-08-20 16:46:29 INFO  Tv:58 - ------------------------------------
+2019-08-20 16:46:29 INFO  Speaker:14 - ------------------------------------
+2019-08-20 16:46:29 INFO  Speaker:15 - powerOn : AppleSpeaker의 볼륨을 높인다.
+2019-08-20 16:46:29 INFO  Speaker:16 - ------------------------------------
+2019-08-20 16:46:29 INFO  Tv:60 - ------------------------------------
+2019-08-20 16:46:29 INFO  Tv:65 - ------------------------------------
+2019-08-20 16:46:29 INFO  Speaker:21 - ------------------------------------
+2019-08-20 16:46:29 INFO  Speaker:22 - powerOn : AppleSpeaker의 볼륨을 낮춘다.
+2019-08-20 16:46:29 INFO  Speaker:23 - ------------------------------------
+2019-08-20 16:46:29 INFO  Tv:67 - ------------------------------------
+2019-08-20 16:46:29 INFO  Tv:51 - ------------------------------------
+2019-08-20 16:46:29 INFO  Tv:52 - powerOn : Samsung TV의 전원을 끈  다.
+2019-08-20 16:46:29 INFO  Tv:53 - ------------------------------------
+2019-08-20 16:47:26 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext01.xml]
+2019-08-20 16:47:26 INFO  GenericXmlApplicationContext:583 - Refreshing org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:47:26 KST 2019]; root of context hierarchy
+2019-08-20 16:47:27 INFO  Speaker:7 - ------------------------------------
+2019-08-20 16:47:27 INFO  Speaker:8 - SonySpeaker 생성자
+2019-08-20 16:47:27 INFO  Speaker:9 - ------------------------------------
+2019-08-20 16:47:27 INFO  Speaker:7 - ------------------------------------
+2019-08-20 16:47:27 INFO  Speaker:8 - AppleSpeaker 생성자
+2019-08-20 16:47:27 INFO  Speaker:9 - ------------------------------------
+2019-08-20 16:47:27 INFO  Tv:20 - ------------------------------------
+2019-08-20 16:47:27 INFO  Tv:21 - Samsung 생성자 speaker : com.ehr.AppleSpeaker@4566e5bd
+2019-08-20 16:47:27 INFO  Tv:22 - Samsung 생성자 price : 100000000
+2019-08-20 16:47:27 INFO  Tv:23 - ------------------------------------
+2019-08-20 16:47:27 INFO  TvClient:12 - ----------------------------------
+2019-08-20 16:47:27 INFO  TvClient:13 - context : org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 16:47:26 KST 2019]; root of context hierarchy
+2019-08-20 16:47:27 INFO  TvClient:14 - ----------------------------------
+2019-08-20 16:47:27 INFO  Tv:44 - ------------------------------------
+2019-08-20 16:47:27 INFO  Tv:45 - powerOn : Samsung TV의 전원을 켠  다.
+2019-08-20 16:47:27 INFO  Tv:46 - ------------------------------------
+2019-08-20 16:47:27 INFO  Speaker:14 - ------------------------------------
+2019-08-20 16:47:27 INFO  Speaker:15 - powerOn : AppleSpeaker의 볼륨을 높인다.
+2019-08-20 16:47:27 INFO  Speaker:16 - ------------------------------------
+2019-08-20 16:47:27 INFO  Speaker:21 - ------------------------------------
+2019-08-20 16:47:27 INFO  Speaker:22 - powerOn : AppleSpeaker의 볼륨을 낮춘다.
+2019-08-20 16:47:27 INFO  Speaker:23 - ------------------------------------
+2019-08-20 16:47:27 INFO  Tv:51 - ------------------------------------
+2019-08-20 16:47:27 INFO  Tv:52 - powerOn : Samsung TV의 전원을 끈  다.
+2019-08-20 16:47:27 INFO  Tv:53 - ------------------------------------

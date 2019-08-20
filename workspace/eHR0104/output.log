@@ -1,0 +1,65 @@
+2019-08-20 09:17:35,326 DEBUG [main] ehr.UserDao       ( UserDao.java:178)     - ---------------------
+2019-08-20 09:17:35,329 DEBUG [main] ehr.UserDao       ( UserDao.java:179)     - Main
+2019-08-20 09:17:35,329 DEBUG [main] ehr.UserDao       ( UserDao.java:180)     - ---------------------
+2019-08-20 09:17:35,330 DEBUG [main] ehr.UserDao       ( UserDao.java:185)     - =============================
+2019-08-20 09:17:35,330 DEBUG [main] ehr.UserDao       ( UserDao.java:186)     - 단건 등록
+2019-08-20 09:17:35,330 DEBUG [main] ehr.UserDao       ( UserDao.java:187)     - =============================
+2019-08-20 09:17:35,665 DEBUG [main] ehr.SimpleConnectionMaker (SimpleConnectionMaker.java:19)     - ---------------------
+2019-08-20 09:17:35,667 DEBUG [main] ehr.SimpleConnectionMaker (SimpleConnectionMaker.java:20)     - 01. conn : oracle.jdbc.driver.T4CConnection@1f89ab83
+2019-08-20 09:17:35,667 DEBUG [main] ehr.SimpleConnectionMaker (SimpleConnectionMaker.java:21)     - ---------------------
+2019-08-20 09:17:35,667 DEBUG [main] ehr.UserDao       ( UserDao.java:58)     - =============================
+2019-08-20 09:17:35,667 DEBUG [main] ehr.UserDao       ( UserDao.java:59)     - 01. Connection=oracle.jdbc.driver.T4CConnection@1f89ab83
+2019-08-20 09:17:35,668 DEBUG [main] ehr.UserDao       ( UserDao.java:60)     - =============================
+2019-08-20 09:17:35,668 DEBUG [main] ehr.UserDao       ( UserDao.java:76)     - =============================
+2019-08-20 09:17:35,668 DEBUG [main] ehr.UserDao       ( UserDao.java:77)     - 02. sql=
+ INSERT INTO users (  
+     u_id,            
+     name,            
+     passwd           
+ ) VALUES (           
+     ?,               
+     ?,               
+     ?                
+ )                    
+
+2019-08-20 09:17:35,668 DEBUG [main] ehr.UserDao       ( UserDao.java:78)     - =============================
+2019-08-20 09:17:35,720 DEBUG [main] ehr.UserDao       ( UserDao.java:87)     - =============================
+2019-08-20 09:17:35,721 DEBUG [main] ehr.UserDao       ( UserDao.java:88)     - 03. param=User [u_id=j01_125, name=노명진, passwd=1234]
+2019-08-20 09:17:35,721 DEBUG [main] ehr.UserDao       ( UserDao.java:89)     - =============================
+2019-08-20 09:17:35,726 DEBUG [main] ehr.UserDao       ( UserDao.java:95)     - =============================
+2019-08-20 09:17:35,726 DEBUG [main] ehr.UserDao       ( UserDao.java:96)     - 03. Run flag=1
+2019-08-20 09:17:35,726 DEBUG [main] ehr.UserDao       ( UserDao.java:97)     - =============================
+2019-08-20 09:17:35,727 DEBUG [main] ehr.UserDao       ( UserDao.java:190)     - =============================
+2019-08-20 09:17:35,727 DEBUG [main] ehr.UserDao       ( UserDao.java:191)     - 01. add flag=1
+2019-08-20 09:17:35,728 DEBUG [main] ehr.UserDao       ( UserDao.java:192)     - =============================
+2019-08-20 09:17:35,728 DEBUG [main] ehr.UserDao       ( UserDao.java:195)     - =============================
+2019-08-20 09:17:35,728 DEBUG [main] ehr.UserDao       ( UserDao.java:196)     - 등록 성공j01_125
+2019-08-20 09:17:35,728 DEBUG [main] ehr.UserDao       ( UserDao.java:197)     - =============================
+2019-08-20 09:17:35,728 DEBUG [main] ehr.UserDao       ( UserDao.java:199)     - =============================
+2019-08-20 09:17:35,728 DEBUG [main] ehr.UserDao       ( UserDao.java:200)     - 단건 조회
+2019-08-20 09:17:35,728 DEBUG [main] ehr.UserDao       ( UserDao.java:201)     - =============================
+2019-08-20 09:17:35,750 DEBUG [main] ehr.SimpleConnectionMaker (SimpleConnectionMaker.java:19)     - ---------------------
+2019-08-20 09:17:35,751 DEBUG [main] ehr.SimpleConnectionMaker (SimpleConnectionMaker.java:20)     - 01. conn : oracle.jdbc.driver.T4CConnection@5025a98f
+2019-08-20 09:17:35,751 DEBUG [main] ehr.SimpleConnectionMaker (SimpleConnectionMaker.java:21)     - ---------------------
+2019-08-20 09:17:35,751 DEBUG [main] ehr.UserDao       ( UserDao.java:125)     - =============================
+2019-08-20 09:17:35,751 DEBUG [main] ehr.UserDao       ( UserDao.java:126)     - 01. Connection=oracle.jdbc.driver.T4CConnection@5025a98f
+2019-08-20 09:17:35,751 DEBUG [main] ehr.UserDao       ( UserDao.java:127)     - =============================
+2019-08-20 09:17:35,751 DEBUG [main] ehr.UserDao       ( UserDao.java:140)     - =============================
+2019-08-20 09:17:35,751 DEBUG [main] ehr.UserDao       ( UserDao.java:141)     - 02. sql=
+ SELECT         
+     u_id,      
+     name,      
+     passwd     
+ FROM users     
+ WHERE u_id = ? 
+
+2019-08-20 09:17:35,751 DEBUG [main] ehr.UserDao       ( UserDao.java:142)     - =============================
+2019-08-20 09:17:35,751 DEBUG [main] ehr.UserDao       ( UserDao.java:149)     - =============================
+2019-08-20 09:17:35,751 DEBUG [main] ehr.UserDao       ( UserDao.java:150)     - 03. param=j01_125
+2019-08-20 09:17:35,752 DEBUG [main] ehr.UserDao       ( UserDao.java:151)     - =============================
+2019-08-20 09:17:35,759 DEBUG [main] ehr.UserDao       ( UserDao.java:163)     - =============================
+2019-08-20 09:17:35,760 DEBUG [main] ehr.UserDao       ( UserDao.java:164)     - 04. output=User [u_id=j01_125, name=노명진, passwd=1234]
+2019-08-20 09:17:35,760 DEBUG [main] ehr.UserDao       ( UserDao.java:165)     - =============================
+2019-08-20 09:17:35,761 DEBUG [main] ehr.UserDao       ( UserDao.java:208)     - =============================
+2019-08-20 09:17:35,761 DEBUG [main] ehr.UserDao       ( UserDao.java:209)     - 조회 성공User [u_id=j01_125, name=노명진, passwd=1234]
+2019-08-20 09:17:35,761 DEBUG [main] ehr.UserDao       ( UserDao.java:210)     - =============================

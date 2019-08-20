@@ -1,0 +1,6 @@
+package com.ehr;
+
+public interface Speaker {
+	void volumeUp();   
+	void volumeDown(); 
+}

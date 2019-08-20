@@ -1,0 +1,96 @@
+2019-08-20 17:18:57 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-20 17:19:25 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-20 17:19:25 INFO  GenericXmlApplicationContext:583 - Refreshing org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 17:19:25 KST 2019]; root of context hierarchy
+2019-08-20 17:20:08 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-20 17:20:08 INFO  GenericXmlApplicationContext:583 - Refreshing org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 17:20:08 KST 2019]; root of context hierarchy
+2019-08-20 17:20:19 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-20 17:20:19 INFO  GenericXmlApplicationContext:583 - Refreshing org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 17:20:19 KST 2019]; root of context hierarchy
+2019-08-20 17:20:50 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-20 17:20:50 INFO  GenericXmlApplicationContext:583 - Refreshing org.springframework.context.support.GenericXmlApplicationContext@78e03bb5: startup date [Tue Aug 20 17:20:50 KST 2019]; root of context hierarchy
+2019-08-20 17:21:21 DEBUG UserDaoTest:14 - ---------------------
+2019-08-20 17:21:21 DEBUG UserDaoTest:15 - Main
+2019-08-20 17:21:21 DEBUG UserDaoTest:16 - ---------------------
+2019-08-20 17:21:21 DEBUG StandardEnvironment:109 - Adding [systemProperties] PropertySource with lowest search precedence
+2019-08-20 17:21:21 DEBUG StandardEnvironment:109 - Adding [systemEnvironment] PropertySource with lowest search precedence
+2019-08-20 17:21:21 DEBUG StandardEnvironment:124 - Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2019-08-20 17:21:21 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-20 17:21:21 DEBUG DefaultDocumentLoader:73 - Using JAXP provider [com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderFactoryImpl]
+2019-08-20 17:21:21 DEBUG PluggableSchemaResolver:141 - Loading schema mappings from [META-INF/spring.schemas]
+2019-08-20 17:21:21 DEBUG PluggableSchemaResolver:147 - Loaded schema mappings: {http://www.springframework.org/schema/cache/spring-cache-4.2.xsd=org/springframework/cache/config/spring-cache-4.2.xsd, http://www.springframework.org/schema/aop/spring-aop-4.1.xsd=org/springframework/aop/config/spring-aop-4.1.xsd, http://www.springframework.org/schema/context/spring-context-3.1.xsd=org/springframework/context/config/spring-context-3.1.xsd, http://www.springframework.org/schema/util/spring-util-3.0.xsd=org/springframework/beans/factory/xml/spring-util-3.0.xsd, http://www.springframework.org/schema/tool/spring-tool.xsd=org/springframework/beans/factory/xml/spring-tool-4.3.xsd, http://www.springframework.org/schema/aop/spring-aop-3.2.xsd=org/springframework/aop/config/spring-aop-3.2.xsd, http://www.springframework.org/schema/lang/spring-lang-4.1.xsd=org/springframework/scripting/config/spring-lang-4.1.xsd, http://www.springframework.org/schema/context/spring-context-4.0.xsd=org/springframework/context/config/spring-context-4.0.xsd, http://www.springframework.org/schema/beans/spring-beans-4.2.xsd=org/springframework/beans/factory/xml/spring-beans-4.2.xsd, http://www.springframework.org/schema/tool/spring-tool-4.1.xsd=org/springframework/beans/factory/xml/spring-tool-4.1.xsd, http://www.springframework.org/schema/lang/spring-lang-3.2.xsd=org/springframework/scripting/config/spring-lang-3.2.xsd, http://www.springframework.org/schema/cache/spring-cache-3.2.xsd=org/springframework/cache/config/spring-cache-3.2.xsd, http://www.springframework.org/schema/jee/spring-jee-4.1.xsd=org/springframework/ejb/config/spring-jee-4.1.xsd, http://www.springframework.org/schema/util/spring-util-2.0.xsd=org/springframework/beans/factory/xml/spring-util-2.0.xsd, http://www.springframework.org/schema/task/spring-task-4.2.xsd=org/springframework/scheduling/config/spring-task-4.2.xsd, http://www.springframework.org/schema/tool/spring-tool-3.2.xsd=org/springframework/beans/factory/xml/spring-tool-3.2.xsd, http://www.springframework.org/schema/context/spring-context.xsd=org/springframework/context/config/spring-context-4.3.xsd, http://www.springframework.org/schema/cache/spring-cache-4.1.xsd=org/springframework/cache/config/spring-cache-4.1.xsd, http://www.springframework.org/schema/aop/spring-aop-4.0.xsd=org/springframework/aop/config/spring-aop-4.0.xsd, http://www.springframework.org/schema/jee/spring-jee-3.2.xsd=org/springframework/ejb/config/spring-jee-3.2.xsd, http://www.springframework.org/schema/context/spring-context-3.0.xsd=org/springframework/context/config/spring-context-3.0.xsd, http://www.springframework.org/schema/util/spring-util-4.3.xsd=org/springframework/beans/factory/xml/spring-util-4.3.xsd, http://www.springframework.org/schema/util/spring-util-2.5.xsd=org/springframework/beans/factory/xml/spring-util-2.5.xsd, http://www.springframework.org/schema/beans/spring-beans-3.2.xsd=org/springframework/beans/factory/xml/spring-beans-3.2.xsd, http://www.springframework.org/schema/aop/spring-aop-3.1.xsd=org/springframework/aop/config/spring-aop-3.1.xsd, http://www.springframework.org/schema/lang/spring-lang-4.0.xsd=org/springframework/scripting/config/spring-lang-4.0.xsd, http://www.springframework.org/schema/beans/spring-beans-4.1.xsd=org/springframework/beans/factory/xml/spring-beans-4.1.xsd, http://www.springframework.org/schema/tool/spring-tool-4.0.xsd=org/springframework/beans/factory/xml/spring-tool-4.0.xsd, http://www.springframework.org/schema/lang/spring-lang-3.1.xsd=org/springframework/scripting/config/spring-lang-3.1.xsd, http://www.springframework.org/schema/cache/spring-cache-3.1.xsd=org/springframework/cache/config/spring-cache-3.1.xsd, http://www.springframework.org/schema/jee/spring-jee-4.0.xsd=org/springframework/ejb/config/spring-jee-4.0.xsd, http://www.springframework.org/schema/task/spring-task-4.1.xsd=org/springframework/scheduling/config/spring-task-4.1.xsd, http://www.springframework.org/schema/tool/spring-tool-3.1.xsd=org/springframework/beans/factory/xml/spring-tool-3.1.xsd, http://www.springframework.org/schema/cache/spring-cache-4.0.xsd=org/springframework/cache/config/spring-cache-4.0.xsd, http://www.springframework.org/schema/jee/spring-jee-3.1.xsd=org/springframework/ejb/config/spring-jee-3.1.xsd, http://www.springframework.org/schema/util/spring-util-4.2.xsd=org/springframework/beans/factory/xml/spring-util-4.2.xsd, http://www.springframework.org/schema/task/spring-task-3.2.xsd=org/springframework/scheduling/config/spring-task-3.2.xsd, http://www.springframework.org/schema/beans/spring-beans-3.1.xsd=org/springframework/beans/factory/xml/spring-beans-3.1.xsd, http://www.springframework.org/schema/util/spring-util.xsd=org/springframework/beans/factory/xml/spring-util-4.3.xsd, http://www.springframework.org/schema/aop/spring-aop-3.0.xsd=org/springframework/aop/config/spring-aop-3.0.xsd, http://www.springframework.org/schema/beans/spring-beans-4.0.xsd=org/springframework/beans/factory/xml/spring-beans-4.0.xsd, http://www.springframework.org/schema/beans/spring-beans.xsd=org/springframework/beans/factory/xml/spring-beans-4.3.xsd, http://www.springframework.org/schema/lang/spring-lang-3.0.xsd=org/springframework/scripting/config/spring-lang-3.0.xsd, http://www.springframework.org/schema/context/spring-context-2.5.xsd=org/springframework/context/config/spring-context-2.5.xsd, http://www.springframework.org/schema/context/spring-context-4.3.xsd=org/springframework/context/config/spring-context-4.3.xsd, http://www.springframework.org/schema/task/spring-task-4.0.xsd=org/springframework/scheduling/config/spring-task-4.0.xsd, http://www.springframework.org/schema/tool/spring-tool-3.0.xsd=org/springframework/beans/factory/xml/spring-tool-3.0.xsd, http://www.springframework.org/schema/aop/spring-aop-2.0.xsd=org/springframework/aop/config/spring-aop-2.0.xsd, http://www.springframework.org/schema/jee/spring-jee-3.0.xsd=org/springframework/ejb/config/spring-jee-3.0.xsd, http://www.springframework.org/schema/util/spring-util-4.1.xsd=org/springframework/beans/factory/xml/spring-util-4.1.xsd, http://www.springframework.org/schema/task/spring-task-3.1.xsd=org/springframework/scheduling/config/spring-task-3.1.xsd, http://www.springframework.org/schema/beans/spring-beans-3.0.xsd=org/springframework/beans/factory/xml/spring-beans-3.0.xsd, http://www.springframework.org/schema/jee/spring-jee.xsd=org/springframework/ejb/config/spring-jee-4.3.xsd, http://www.springframework.org/schema/aop/spring-aop-2.5.xsd=org/springframework/aop/config/spring-aop-2.5.xsd, http://www.springframework.org/schema/aop/spring-aop-4.3.xsd=org/springframework/aop/config/spring-aop-4.3.xsd, http://www.springframework.org/schema/lang/spring-lang-2.0.xsd=org/springframework/scripting/config/spring-lang-2.0.xsd, http://www.springframework.org/schema/util/spring-util-3.2.xsd=org/springframework/beans/factory/xml/spring-util-3.2.xsd, http://www.springframework.org/schema/task/spring-task.xsd=org/springframework/scheduling/config/spring-task-4.3.xsd, http://www.springframework.org/schema/tool/spring-tool-2.0.xsd=org/springframework/beans/factory/xml/spring-tool-2.0.xsd, http://www.springframework.org/schema/lang/spring-lang-2.5.xsd=org/springframework/scripting/config/spring-lang-2.5.xsd, http://www.springframework.org/schema/lang/spring-lang-4.3.xsd=org/springframework/scripting/config/spring-lang-4.3.xsd, http://www.springframework.org/schema/context/spring-context-4.2.xsd=org/springframework/context/config/spring-context-4.2.xsd, http://www.springframework.org/schema/jee/spring-jee-2.0.xsd=org/springframework/ejb/config/spring-jee-2.0.xsd, http://www.springframework.org/schema/tool/spring-tool-4.3.xsd=org/springframework/beans/factory/xml/spring-tool-4.3.xsd, http://www.springframework.org/schema/tool/spring-tool-2.5.xsd=org/springframework/beans/factory/xml/spring-tool-2.5.xsd, http://www.springframework.org/schema/jee/spring-jee-4.3.xsd=org/springframework/ejb/config/spring-jee-4.3.xsd, http://www.springframework.org/schema/jee/spring-jee-2.5.xsd=org/springframework/ejb/config/spring-jee-2.5.xsd, http://www.springframework.org/schema/util/spring-util-4.0.xsd=org/springframework/beans/factory/xml/spring-util-4.0.xsd, http://www.springframework.org/schema/task/spring-task-3.0.xsd=org/springframework/scheduling/config/spring-task-3.0.xsd, http://www.springframework.org/schema/cache/spring-cache-4.3.xsd=org/springframework/cache/config/spring-cache-4.3.xsd, http://www.springframework.org/schema/aop/spring-aop-4.2.xsd=org/springframework/aop/config/spring-aop-4.2.xsd, http://www.springframework.org/schema/lang/spring-lang.xsd=org/springframework/scripting/config/spring-lang-4.3.xsd, http://www.springframework.org/schema/context/spring-context-3.2.xsd=org/springframework/context/config/spring-context-3.2.xsd, http://www.springframework.org/schema/util/spring-util-3.1.xsd=org/springframework/beans/factory/xml/spring-util-3.1.xsd, http://www.springframework.org/schema/beans/spring-beans-2.0.xsd=org/springframework/beans/factory/xml/spring-beans-2.0.xsd, http://www.springframework.org/schema/cache/spring-cache.xsd=org/springframework/cache/config/spring-cache-4.3.xsd, http://www.springframework.org/schema/lang/spring-lang-4.2.xsd=org/springframework/scripting/config/spring-lang-4.2.xsd, http://www.springframework.org/schema/context/spring-context-4.1.xsd=org/springframework/context/config/spring-context-4.1.xsd, http://www.springframework.org/schema/beans/spring-beans-2.5.xsd=org/springframework/beans/factory/xml/spring-beans-2.5.xsd, http://www.springframework.org/schema/beans/spring-beans-4.3.xsd=org/springframework/beans/factory/xml/spring-beans-4.3.xsd, http://www.springframework.org/schema/tool/spring-tool-4.2.xsd=org/springframework/beans/factory/xml/spring-tool-4.2.xsd, http://www.springframework.org/schema/jee/spring-jee-4.2.xsd=org/springframework/ejb/config/spring-jee-4.2.xsd, http://www.springframework.org/schema/task/spring-task-4.3.xsd=org/springframework/scheduling/config/spring-task-4.3.xsd, http://www.springframework.org/schema/aop/spring-aop.xsd=org/springframework/aop/config/spring-aop-4.3.xsd}
+2019-08-20 17:21:21 DEBUG PluggableSchemaResolver:119 - Found XML schema [http://www.springframework.org/schema/beans/spring-beans.xsd] in classpath: org/springframework/beans/factory/xml/spring-beans-4.3.xsd
+2019-08-20 17:21:21 DEBUG DefaultBeanDefinitionDocumentReader:92 - Loading bean definitions
+2019-08-20 17:21:21 DEBUG XmlBeanDefinitionReader:224 - Loaded 2 bean definitions from location pattern [applicationContext.xml]
+2019-08-20 17:21:21 INFO  GenericXmlApplicationContext:583 - Refreshing org.springframework.context.support.GenericXmlApplicationContext@1b4fb997: startup date [Tue Aug 20 17:21:21 KST 2019]; root of context hierarchy
+2019-08-20 17:21:21 DEBUG GenericXmlApplicationContext:617 - Bean factory for org.springframework.context.support.GenericXmlApplicationContext@1b4fb997: org.springframework.beans.factory.support.DefaultListableBeanFactory@2c8d66b2: defining beans [dUserDao,userDao]; root of factory hierarchy
+2019-08-20 17:21:21 DEBUG GenericXmlApplicationContext:734 - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@50f8360d]
+2019-08-20 17:21:21 DEBUG GenericXmlApplicationContext:758 - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@7946e1f4]
+2019-08-20 17:21:21 DEBUG DefaultListableBeanFactory:730 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2c8d66b2: defining beans [dUserDao,userDao]; root of factory hierarchy
+2019-08-20 17:21:21 DEBUG DefaultListableBeanFactory:221 - Creating shared instance of singleton bean 'dUserDao'
+2019-08-20 17:21:21 DEBUG DefaultListableBeanFactory:449 - Creating instance of bean 'dUserDao'
+2019-08-20 17:21:21 DEBUG DefaultListableBeanFactory:539 - Eagerly caching bean 'dUserDao' to allow for resolving potential circular references
+2019-08-20 17:21:21 DEBUG DefaultListableBeanFactory:485 - Finished creating instance of bean 'dUserDao'
+2019-08-20 17:21:21 DEBUG DefaultListableBeanFactory:221 - Creating shared instance of singleton bean 'userDao'
+2019-08-20 17:21:21 DEBUG DefaultListableBeanFactory:449 - Creating instance of bean 'userDao'
+2019-08-20 17:21:21 DEBUG DefaultListableBeanFactory:539 - Eagerly caching bean 'userDao' to allow for resolving potential circular references
+2019-08-20 17:21:21 DEBUG DefaultListableBeanFactory:251 - Returning cached instance of singleton bean 'dUserDao'
+2019-08-20 17:21:21 DEBUG DefaultListableBeanFactory:485 - Finished creating instance of bean 'userDao'
+2019-08-20 17:21:21 DEBUG GenericXmlApplicationContext:785 - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@3c0ecd4b]
+2019-08-20 17:21:21 DEBUG DefaultListableBeanFactory:251 - Returning cached instance of singleton bean 'lifecycleProcessor'
+2019-08-20 17:21:21 DEBUG PropertySourcesPropertyResolver:91 - Could not find key 'spring.liveBeansView.mbeanDomain' in any property source
+2019-08-20 17:21:21 DEBUG DefaultListableBeanFactory:251 - Returning cached instance of singleton bean 'userDao'
+2019-08-20 17:21:21 DEBUG UserDaoTest:26 - =============================
+2019-08-20 17:21:21 DEBUG UserDaoTest:27 - 단건 등록
+2019-08-20 17:21:21 DEBUG UserDaoTest:28 - =============================
+2019-08-20 17:21:22 DEBUG DUserDao:21 - ---------------------
+2019-08-20 17:21:22 DEBUG DUserDao:22 - 01. conn : oracle.jdbc.driver.T4CConnection@26a7b76d
+2019-08-20 17:21:22 DEBUG DUserDao:23 - ---------------------
+2019-08-20 17:21:22 DEBUG UserDao:75 - =============================
+2019-08-20 17:21:22 DEBUG UserDao:76 - 02. sql=
+ INSERT INTO users (  
+     u_id,            
+     name,            
+     passwd           
+ ) VALUES (           
+     ?,               
+     ?,               
+     ?                
+ )                    
+
+2019-08-20 17:21:22 DEBUG UserDao:77 - =============================
+2019-08-20 17:21:22 DEBUG UserDao:86 - =============================
+2019-08-20 17:21:22 DEBUG UserDao:87 - 03. param=User [u_id=j01_125, name=노명진, passwd=1234]
+2019-08-20 17:21:22 DEBUG UserDao:88 - =============================
+2019-08-20 17:21:22 DEBUG UserDao:94 - =============================
+2019-08-20 17:21:22 DEBUG UserDao:95 - 03. Run flag=1
+2019-08-20 17:21:22 DEBUG UserDao:96 - =============================
+2019-08-20 17:21:22 DEBUG UserDaoTest:31 - =============================
+2019-08-20 17:21:22 DEBUG UserDaoTest:32 - 01. add flag=1
+2019-08-20 17:21:22 DEBUG UserDaoTest:33 - =============================
+2019-08-20 17:21:22 DEBUG UserDaoTest:36 - =============================
+2019-08-20 17:21:22 DEBUG UserDaoTest:37 - 등록 성공j01_125
+2019-08-20 17:21:22 DEBUG UserDaoTest:38 - =============================
+2019-08-20 17:21:22 DEBUG UserDaoTest:40 - =============================
+2019-08-20 17:21:22 DEBUG UserDaoTest:41 - 단건 조회
+2019-08-20 17:21:22 DEBUG UserDaoTest:42 - =============================
+2019-08-20 17:21:22 DEBUG DUserDao:21 - ---------------------
+2019-08-20 17:21:22 DEBUG DUserDao:22 - 01. conn : oracle.jdbc.driver.T4CConnection@1e730495
+2019-08-20 17:21:22 DEBUG DUserDao:23 - ---------------------
+2019-08-20 17:21:22 DEBUG UserDao:136 - =============================
+2019-08-20 17:21:22 DEBUG UserDao:137 - 02. sql=
+ SELECT         
+     u_id,      
+     name,      
+     passwd     
+ FROM users     
+ WHERE u_id = ? 
+
+2019-08-20 17:21:22 DEBUG UserDao:138 - =============================
+2019-08-20 17:21:22 DEBUG UserDao:145 - =============================
+2019-08-20 17:21:22 DEBUG UserDao:146 - 03. param=j01_125
+2019-08-20 17:21:22 DEBUG UserDao:147 - =============================
+2019-08-20 17:21:22 DEBUG UserDao:159 - =============================
+2019-08-20 17:21:22 DEBUG UserDao:160 - 04. output=User [u_id=j01_125, name=노명진, passwd=1234]
+2019-08-20 17:21:22 DEBUG UserDao:161 - =============================
+2019-08-20 17:21:22 DEBUG UserDaoTest:49 - =============================
+2019-08-20 17:21:22 DEBUG UserDaoTest:50 - 조회 성공User [u_id=j01_125, name=노명진, passwd=1234]
+2019-08-20 17:21:22 DEBUG UserDaoTest:51 - =============================
