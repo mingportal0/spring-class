@@ -1,0 +1,24 @@
+2019-08-21 16:46:52,215 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContextList.xml]
+2019-08-21 16:46:52,289 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@2957fcb0: startup date [Wed Aug 21 16:46:52 KST 2019]; root of context hierarchy
+2019-08-21 16:46:52,341 INFO  [main] list.CollectionBeanListClient (CollectionBeanListClient.java:17)     - 01.context:org.springframework.context.support.GenericXmlApplicationContext@2957fcb0: startup date [Wed Aug 21 16:46:52 KST 2019]; root of context hierarchy
+2019-08-21 16:46:52,341 INFO  [main] list.CollectionBeanListClient (CollectionBeanListClient.java:20)     - 02.colList:com.ehr.list.CollectionBeanList@55d56113
+2019-08-21 16:46:52,342 INFO  [main] list.CollectionBeanListClient (CollectionBeanListClient.java:25)     - 03.addr:서울시 마포구 월드컵북로 21 풍성빌딩
+2019-08-21 16:46:52,342 INFO  [main] list.CollectionBeanListClient (CollectionBeanListClient.java:25)     - 03.addr:서울시 강남구 테란로 132(역삼동)
+2019-08-21 17:12:07,579 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContextMap.xml]
+2019-08-21 17:12:07,652 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@2957fcb0: startup date [Wed Aug 21 17:12:07 KST 2019]; root of context hierarchy
+2019-08-21 17:12:07,698 INFO  [main] map.CollectionBeanMapClient (CollectionBeanMapClient.java:17)     - 01.context:org.springframework.context.support.GenericXmlApplicationContext@2957fcb0: startup date [Wed Aug 21 17:12:07 KST 2019]; root of context hierarchy
+2019-08-21 17:12:07,698 INFO  [main] map.CollectionBeanMapClient (CollectionBeanMapClient.java:20)     - 02.colMap:com.ehr.map.CollectionBeanMap@2d928643
+2019-08-21 17:12:07,698 INFO  [main] map.CollectionBeanMapClient (CollectionBeanMapClient.java:26)     - 03.key:강북=서울시 마포구 월드컵북로 21 풍성빌딩
+2019-08-21 17:12:07,698 INFO  [main] map.CollectionBeanMapClient (CollectionBeanMapClient.java:26)     - 03.key:강남=서울시 강남구 테란로 132(역삼동)
+2019-08-21 17:25:36,439 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContextList.xml]
+2019-08-21 17:25:36,511 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@2957fcb0: startup date [Wed Aug 21 17:25:36 KST 2019]; root of context hierarchy
+2019-08-21 17:25:36,561 INFO  [main] list.CollectionBeanListClient (CollectionBeanListClient.java:17)     - 01.context:org.springframework.context.support.GenericXmlApplicationContext@2957fcb0: startup date [Wed Aug 21 17:25:36 KST 2019]; root of context hierarchy
+2019-08-21 17:25:36,562 INFO  [main] list.CollectionBeanListClient (CollectionBeanListClient.java:20)     - 02.colList:com.ehr.list.CollectionBeanList@55d56113
+2019-08-21 17:25:36,562 INFO  [main] list.CollectionBeanListClient (CollectionBeanListClient.java:25)     - 03.addr:서울시 마포구 월드컵북로 21 풍성빌딩
+2019-08-21 17:25:36,562 INFO  [main] list.CollectionBeanListClient (CollectionBeanListClient.java:25)     - 03.addr:서울시 강남구 테란로 132(역삼동)
+2019-08-21 17:26:12,472 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContextSet.xml]
+2019-08-21 17:26:12,545 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@2957fcb0: startup date [Wed Aug 21 17:26:12 KST 2019]; root of context hierarchy
+2019-08-21 17:26:12,597 INFO  [main] set.CollectionBeanSetClient (CollectionBeanSetClient.java:18)     - 01.context:org.springframework.context.support.GenericXmlApplicationContext@2957fcb0: startup date [Wed Aug 21 17:26:12 KST 2019]; root of context hierarchy
+2019-08-21 17:26:12,597 INFO  [main] set.CollectionBeanSetClient (CollectionBeanSetClient.java:21)     - 02.colSet:com.ehr.set.CollectionBeanSet@55d56113
+2019-08-21 17:26:12,597 INFO  [main] set.CollectionBeanSetClient (CollectionBeanSetClient.java:26)     - 03.addr:서울시 마포구 월드컵북로 21 풍성빌딩
+2019-08-21 17:26:12,597 INFO  [main] set.CollectionBeanSetClient (CollectionBeanSetClient.java:26)     - 03.addr:서울시 강남구 테란로 132(역삼동)

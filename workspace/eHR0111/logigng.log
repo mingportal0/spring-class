@@ -1,0 +1,4 @@
+2019-08-21 14:57:18 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 14:57:18 INFO  GenericXmlApplicationContext:583 - Refreshing org.springframework.context.support.GenericXmlApplicationContext@2957fcb0: startup date [Wed Aug 21 14:57:18 KST 2019]; root of context hierarchy
+2019-08-21 14:57:45 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 14:57:45 INFO  GenericXmlApplicationContext:583 - Refreshing org.springframework.context.support.GenericXmlApplicationContext@2957fcb0: startup date [Wed Aug 21 14:57:45 KST 2019]; root of context hierarchy

@@ -1,0 +1,4 @@
+2019-08-21 14:57:18,011 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 14:57:18,084 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@2957fcb0: startup date [Wed Aug 21 14:57:18 KST 2019]; root of context hierarchy
+2019-08-21 14:57:45,801 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 14:57:45,872 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@2957fcb0: startup date [Wed Aug 21 14:57:45 KST 2019]; root of context hierarchy

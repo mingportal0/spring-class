@@ -1,0 +1,569 @@
+2019-08-21 14:14:09,667 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 14:14:09,742 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@270421f5: startup date [Wed Aug 21 14:14:09 KST 2019]; root of context hierarchy
+2019-08-21 14:14:36,186 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 14:14:36,262 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@270421f5: startup date [Wed Aug 21 14:14:36 KST 2019]; root of context hierarchy
+2019-08-21 14:14:36,351 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:23)     - ==============================
+2019-08-21 14:14:36,352 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:24)     - =01 삭제=
+2019-08-21 14:14:36,352 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:25)     - ==============================
+2019-08-21 14:14:36,590 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:31)     - ==============================
+2019-08-21 14:14:36,590 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:32)     - =01.01 del flag=1
+2019-08-21 14:14:36,590 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:33)     - ==============================
+2019-08-21 14:14:36,590 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:35)     - ==============================
+2019-08-21 14:14:36,590 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:36)     - =02 단건등록=
+2019-08-21 14:14:36,590 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:37)     - ==============================
+2019-08-21 14:14:36,621 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:40)     - ==============================
+2019-08-21 14:14:36,622 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:41)     - =02.01 add flag=1
+2019-08-21 14:14:36,623 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:42)     - ==============================
+2019-08-21 14:14:36,628 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:46)     - ==============================
+2019-08-21 14:14:36,629 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:47)     - =03 단건조회
+2019-08-21 14:14:36,631 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:48)     - ==============================
+2019-08-21 14:30:03,539 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 14:30:03,614 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@270421f5: startup date [Wed Aug 21 14:30:03 KST 2019]; root of context hierarchy
+2019-08-21 14:30:03,702 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:23)     - ==============================
+2019-08-21 14:30:03,702 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:24)     - =01 삭제=
+2019-08-21 14:30:03,702 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:25)     - ==============================
+2019-08-21 14:30:04,032 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:38)     - ==============================
+2019-08-21 14:30:04,033 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:39)     - =02 단건등록=
+2019-08-21 14:30:04,033 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:40)     - ==============================
+2019-08-21 14:30:04,060 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:43)     - ==============================
+2019-08-21 14:30:04,060 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:44)     - =02.01 add flag=1
+2019-08-21 14:30:04,060 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:45)     - ==============================
+2019-08-21 14:30:04,060 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:49)     - ==============================
+2019-08-21 14:30:04,060 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:50)     - =03 단건조회
+2019-08-21 14:30:04,061 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:51)     - ==============================
+2019-08-21 14:31:06,979 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 14:31:07,052 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@270421f5: startup date [Wed Aug 21 14:31:07 KST 2019]; root of context hierarchy
+2019-08-21 14:31:07,142 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:23)     - ==============================
+2019-08-21 14:31:07,142 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:24)     - =01 삭제=
+2019-08-21 14:31:07,142 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:25)     - ==============================
+2019-08-21 14:31:07,473 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:38)     - ==============================
+2019-08-21 14:31:07,473 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:39)     - =02 단건등록=
+2019-08-21 14:31:07,474 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:40)     - ==============================
+2019-08-21 14:31:07,604 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:46)     - ==============================
+2019-08-21 14:31:07,604 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:47)     - =02.01 add flag=1
+2019-08-21 14:31:07,605 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:48)     - ==============================
+2019-08-21 14:31:07,605 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:52)     - ==============================
+2019-08-21 14:31:07,605 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:53)     - =03 단건조회
+2019-08-21 14:31:07,605 INFO  [main] ehr.UserDaoJunit  (UserDaoJunit.java:54)     - ==============================
+2019-08-21 14:33:03,201 INFO  [Time-limited test] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 14:36:50,075 INFO  [Time-limited test] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 14:36:50,149 INFO  [Time-limited test] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@20aa3c52: startup date [Wed Aug 21 14:36:50 KST 2019]; root of context hierarchy
+2019-08-21 14:36:50,240 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:23)     - ==============================
+2019-08-21 14:36:50,240 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:24)     - =01 삭제=
+2019-08-21 14:36:50,240 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:25)     - ==============================
+2019-08-21 14:44:35,245 INFO  [Time-limited test] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 14:44:35,319 INFO  [Time-limited test] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@20aa3c52: startup date [Wed Aug 21 14:44:35 KST 2019]; root of context hierarchy
+2019-08-21 14:44:35,407 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:67)     - ==============================
+2019-08-21 14:44:35,407 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:68)     - =01 삭제=
+2019-08-21 14:44:35,407 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:69)     - ==============================
+2019-08-21 14:44:35,703 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:82)     - ==============================
+2019-08-21 14:44:35,706 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:83)     - =02 단건등록=
+2019-08-21 14:44:35,757 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:84)     - ==============================
+2019-08-21 14:44:35,874 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:90)     - ==============================
+2019-08-21 14:44:35,874 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:91)     - =02.01 add flag=1
+2019-08-21 14:44:35,874 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:92)     - ==============================
+2019-08-21 14:44:35,874 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:96)     - ==============================
+2019-08-21 14:44:35,874 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:97)     - =03 단건조회
+2019-08-21 14:44:35,874 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:98)     - ==============================
+2019-08-21 14:44:35,915 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 14:44:35,934 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@39a054a5: startup date [Wed Aug 21 14:44:35 KST 2019]; root of context hierarchy
+2019-08-21 14:46:29,450 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 14:46:29,523 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@18ef96: startup date [Wed Aug 21 14:46:29 KST 2019]; root of context hierarchy
+2019-08-21 15:05:04,026 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:05:04,099 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@2471cca7: startup date [Wed Aug 21 15:05:04 KST 2019]; root of context hierarchy
+2019-08-21 15:05:04,538 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:05:04,552 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@6aba2b86: startup date [Wed Aug 21 15:05:04 KST 2019]; root of context hierarchy
+2019-08-21 15:05:25,301 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:05:25,374 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@18ef96: startup date [Wed Aug 21 15:05:25 KST 2019]; root of context hierarchy
+2019-08-21 15:05:25,826 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:05:25,842 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@2e005c4b: startup date [Wed Aug 21 15:05:25 KST 2019]; root of context hierarchy
+2019-08-21 15:19:06,795 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:27)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:19:06,797 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:28)     - 0 setUp()=
+2019-08-21 15:19:06,797 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:29)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:19:06,856 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:19:06,926 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@67117f44: startup date [Wed Aug 21 15:19:06 KST 2019]; root of context hierarchy
+2019-08-21 15:19:07,015 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:37)     - ==============================
+2019-08-21 15:19:07,015 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:38)     - =context=org.springframework.context.support.GenericXmlApplicationContext@67117f44: startup date [Wed Aug 21 15:19:06 KST 2019]; root of context hierarchy
+2019-08-21 15:19:07,015 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:39)     - =dao=com.ehr.UserDao@10d59286
+2019-08-21 15:19:07,015 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:40)     - ==============================
+2019-08-21 15:19:07,343 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:45)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:19:07,343 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:46)     - 99 tearDown()=
+2019-08-21 15:19:07,343 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:47)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:19:07,345 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:27)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:19:07,345 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:28)     - 0 setUp()=
+2019-08-21 15:19:07,346 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:29)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:19:07,346 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:19:07,361 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@4f6ee6e4: startup date [Wed Aug 21 15:19:07 KST 2019]; root of context hierarchy
+2019-08-21 15:19:07,362 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:37)     - ==============================
+2019-08-21 15:19:07,363 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:38)     - =context=org.springframework.context.support.GenericXmlApplicationContext@4f6ee6e4: startup date [Wed Aug 21 15:19:07 KST 2019]; root of context hierarchy
+2019-08-21 15:19:07,363 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:39)     - =dao=com.ehr.UserDao@dd8ba08
+2019-08-21 15:19:07,363 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:40)     - ==============================
+2019-08-21 15:19:07,674 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:45)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:19:07,674 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:46)     - 99 tearDown()=
+2019-08-21 15:19:07,675 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:47)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:19:35,100 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:27)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:19:35,101 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:28)     - 0 setUp()=
+2019-08-21 15:19:35,101 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:29)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:19:35,159 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:19:35,230 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@67117f44: startup date [Wed Aug 21 15:19:35 KST 2019]; root of context hierarchy
+2019-08-21 15:19:35,319 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:37)     - ==============================
+2019-08-21 15:19:35,319 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:38)     - =context=org.springframework.context.support.GenericXmlApplicationContext@67117f44: startup date [Wed Aug 21 15:19:35 KST 2019]; root of context hierarchy
+2019-08-21 15:19:35,319 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:39)     - =dao=com.ehr.UserDao@10d59286
+2019-08-21 15:19:35,319 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:40)     - ==============================
+2019-08-21 15:19:35,827 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:45)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:19:35,828 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:46)     - 99 tearDown()=
+2019-08-21 15:19:35,828 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:47)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:20:19,121 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:27)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:20:19,123 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:28)     - 0 setUp()=
+2019-08-21 15:20:19,123 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:29)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:20:19,182 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:20:19,254 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@6979e8cb: startup date [Wed Aug 21 15:20:19 KST 2019]; root of context hierarchy
+2019-08-21 15:20:19,342 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:37)     - ==============================
+2019-08-21 15:20:19,342 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:38)     - =context=org.springframework.context.support.GenericXmlApplicationContext@6979e8cb: startup date [Wed Aug 21 15:20:19 KST 2019]; root of context hierarchy
+2019-08-21 15:20:19,342 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:39)     - =dao=com.ehr.UserDao@5123a213
+2019-08-21 15:20:19,342 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:40)     - ==============================
+2019-08-21 15:20:19,343 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:104)     - ==============================
+2019-08-21 15:20:19,343 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:105)     - =01 삭제=
+2019-08-21 15:20:19,344 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:106)     - ==============================
+2019-08-21 15:20:19,633 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:114)     - ==============================
+2019-08-21 15:20:19,633 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:115)     - =02 단건등록=
+2019-08-21 15:20:19,633 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:116)     - ==============================
+2019-08-21 15:20:19,740 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:122)     - ==============================
+2019-08-21 15:20:19,744 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:123)     - =02.01 add flag=1
+2019-08-21 15:20:19,744 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:124)     - ==============================
+2019-08-21 15:20:19,745 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:128)     - ==============================
+2019-08-21 15:20:19,746 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:129)     - =03 단건조회
+2019-08-21 15:20:19,746 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:130)     - ==============================
+2019-08-21 15:20:19,780 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:45)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:20:19,780 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:46)     - 99 tearDown()=
+2019-08-21 15:20:19,780 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:47)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:20:19,786 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:27)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:20:19,786 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:28)     - 0 setUp()=
+2019-08-21 15:20:19,786 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:29)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:20:19,787 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:20:19,806 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@4516af24: startup date [Wed Aug 21 15:20:19 KST 2019]; root of context hierarchy
+2019-08-21 15:20:19,808 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:37)     - ==============================
+2019-08-21 15:20:19,808 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:38)     - =context=org.springframework.context.support.GenericXmlApplicationContext@4516af24: startup date [Wed Aug 21 15:20:19 KST 2019]; root of context hierarchy
+2019-08-21 15:20:19,808 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:39)     - =dao=com.ehr.UserDao@b9afc07
+2019-08-21 15:20:19,808 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:40)     - ==============================
+2019-08-21 15:20:20,086 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:45)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:20:20,087 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:46)     - 99 tearDown()=
+2019-08-21 15:20:20,087 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:47)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:31:20,390 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:260)     - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-08-21 15:31:20,397 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:209)     - Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2019-08-21 15:31:20,398 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:187)     - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6b143ee9, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@1936f0f5, org.springframework.test.context.support.DirtiesContextTestExecutionListener@6615435c, org.springframework.test.context.transaction.TransactionalTestExecutionListener@4909b8da, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@3a03464]
+2019-08-21 15:31:20,444 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:31:20,519 INFO  [main] support.GenericApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericApplicationContext@1593948d: startup date [Wed Aug 21 15:31:20 KST 2019]; root of context hierarchy
+2019-08-21 15:31:20,651 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:24)     - 01 setUp()
+2019-08-21 15:31:20,651 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:39)     - 02 addAndGet()
+2019-08-21 15:31:20,651 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:46)     - 03 tearDown()
+2019-08-21 15:31:20,653 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:24)     - 01 setUp()
+2019-08-21 15:31:20,653 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:31)     - 02 count()
+2019-08-21 15:31:20,654 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:46)     - 03 tearDown()
+2019-08-21 15:31:20,655 INFO  [Thread-1] support.GenericApplicationContext (AbstractApplicationContext.java:984)     - Closing org.springframework.context.support.GenericApplicationContext@1593948d: startup date [Wed Aug 21 15:31:20 KST 2019]; root of context hierarchy
+2019-08-21 15:32:13,695 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:260)     - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-08-21 15:32:13,703 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:209)     - Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2019-08-21 15:32:13,704 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:187)     - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6b143ee9, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@1936f0f5, org.springframework.test.context.support.DirtiesContextTestExecutionListener@6615435c, org.springframework.test.context.transaction.TransactionalTestExecutionListener@4909b8da, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@3a03464]
+2019-08-21 15:32:13,745 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:32:13,823 INFO  [main] support.GenericApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericApplicationContext@1593948d: startup date [Wed Aug 21 15:32:13 KST 2019]; root of context hierarchy
+2019-08-21 15:32:13,954 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:24)     - context : org.springframework.context.support.GenericApplicationContext@1593948d: startup date [Wed Aug 21 15:32:13 KST 2019]; root of context hierarchy
+2019-08-21 15:32:13,954 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:25)     - 01 setUp()
+2019-08-21 15:32:13,954 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:41)     - context : org.springframework.context.support.GenericApplicationContext@1593948d: startup date [Wed Aug 21 15:32:13 KST 2019]; root of context hierarchy
+2019-08-21 15:32:13,954 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:42)     - 02 addAndGet()
+2019-08-21 15:32:13,955 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:49)     - context : org.springframework.context.support.GenericApplicationContext@1593948d: startup date [Wed Aug 21 15:32:13 KST 2019]; root of context hierarchy
+2019-08-21 15:32:13,955 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:50)     - 03 tearDown()
+2019-08-21 15:32:13,956 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:24)     - context : org.springframework.context.support.GenericApplicationContext@1593948d: startup date [Wed Aug 21 15:32:13 KST 2019]; root of context hierarchy
+2019-08-21 15:32:13,957 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:25)     - 01 setUp()
+2019-08-21 15:32:13,957 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:32)     - context : org.springframework.context.support.GenericApplicationContext@1593948d: startup date [Wed Aug 21 15:32:13 KST 2019]; root of context hierarchy
+2019-08-21 15:32:13,957 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:33)     - 02 count()
+2019-08-21 15:32:13,957 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:49)     - context : org.springframework.context.support.GenericApplicationContext@1593948d: startup date [Wed Aug 21 15:32:13 KST 2019]; root of context hierarchy
+2019-08-21 15:32:13,958 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:50)     - 03 tearDown()
+2019-08-21 15:32:13,959 INFO  [Thread-1] support.GenericApplicationContext (AbstractApplicationContext.java:984)     - Closing org.springframework.context.support.GenericApplicationContext@1593948d: startup date [Wed Aug 21 15:32:13 KST 2019]; root of context hierarchy
+2019-08-21 15:33:57,920 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:260)     - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-08-21 15:33:57,927 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:209)     - Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2019-08-21 15:33:57,928 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:187)     - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6b143ee9, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@1936f0f5, org.springframework.test.context.support.DirtiesContextTestExecutionListener@6615435c, org.springframework.test.context.transaction.TransactionalTestExecutionListener@4909b8da, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@3a03464]
+2019-08-21 15:33:57,970 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:33:58,048 INFO  [main] support.GenericApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericApplicationContext@1593948d: startup date [Wed Aug 21 15:33:58 KST 2019]; root of context hierarchy
+2019-08-21 15:33:58,177 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:24)     - context : org.springframework.context.support.GenericApplicationContext@1593948d: startup date [Wed Aug 21 15:33:58 KST 2019]; root of context hierarchy
+2019-08-21 15:33:58,177 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:25)     - UserDaoJunitContext : com.ehr.UserDaoJunitContext@5e316c74
+2019-08-21 15:33:58,177 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:26)     - 01 setUp()
+2019-08-21 15:33:58,177 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:41)     - 02 addAndGet()
+2019-08-21 15:33:58,178 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:48)     - 03 tearDown()
+2019-08-21 15:33:58,180 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:24)     - context : org.springframework.context.support.GenericApplicationContext@1593948d: startup date [Wed Aug 21 15:33:58 KST 2019]; root of context hierarchy
+2019-08-21 15:33:58,180 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:25)     - UserDaoJunitContext : com.ehr.UserDaoJunitContext@778d1062
+2019-08-21 15:33:58,180 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:26)     - 01 setUp()
+2019-08-21 15:33:58,180 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:33)     - 02 count()
+2019-08-21 15:33:58,180 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:48)     - 03 tearDown()
+2019-08-21 15:33:58,181 INFO  [Thread-1] support.GenericApplicationContext (AbstractApplicationContext.java:984)     - Closing org.springframework.context.support.GenericApplicationContext@1593948d: startup date [Wed Aug 21 15:33:58 KST 2019]; root of context hierarchy
+2019-08-21 15:35:17,278 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:260)     - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-08-21 15:35:17,286 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:209)     - Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2019-08-21 15:35:17,286 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:187)     - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@234bef66, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@737996a0, org.springframework.test.context.support.DirtiesContextTestExecutionListener@61dc03ce, org.springframework.test.context.transaction.TransactionalTestExecutionListener@50f8360d, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@2cb4c3ab]
+2019-08-21 15:35:17,329 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:35:17,401 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@55f3ddb1: startup date [Wed Aug 21 15:35:17 KST 2019]; root of context hierarchy
+2019-08-21 15:35:17,867 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:35:17,885 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@7eac9008: startup date [Wed Aug 21 15:35:17 KST 2019]; root of context hierarchy
+2019-08-21 15:35:18,133 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:27)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:35:18,133 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:28)     - 0 setUp()=
+2019-08-21 15:35:18,133 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:29)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:35:18,133 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:35:18,144 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@2925bf5b: startup date [Wed Aug 21 15:35:18 KST 2019]; root of context hierarchy
+2019-08-21 15:35:18,146 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:37)     - ==============================
+2019-08-21 15:35:18,146 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:38)     - =context=org.springframework.context.support.GenericXmlApplicationContext@2925bf5b: startup date [Wed Aug 21 15:35:18 KST 2019]; root of context hierarchy
+2019-08-21 15:35:18,146 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:39)     - =dao=com.ehr.UserDao@7bedc48a
+2019-08-21 15:35:18,146 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:40)     - ==============================
+2019-08-21 15:35:18,148 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:104)     - ==============================
+2019-08-21 15:35:18,148 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:105)     - =01 삭제=
+2019-08-21 15:35:18,148 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:106)     - ==============================
+2019-08-21 15:35:18,249 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:114)     - ==============================
+2019-08-21 15:35:18,249 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:115)     - =02 단건등록=
+2019-08-21 15:35:18,249 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:116)     - ==============================
+2019-08-21 15:35:18,393 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:122)     - ==============================
+2019-08-21 15:35:18,394 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:123)     - =02.01 add flag=1
+2019-08-21 15:35:18,394 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:124)     - ==============================
+2019-08-21 15:35:18,395 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:128)     - ==============================
+2019-08-21 15:35:18,395 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:129)     - =03 단건조회
+2019-08-21 15:35:18,396 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:130)     - ==============================
+2019-08-21 15:35:18,425 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:45)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:35:18,425 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:46)     - 99 tearDown()=
+2019-08-21 15:35:18,425 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:47)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:35:18,426 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:27)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:35:18,426 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:28)     - 0 setUp()=
+2019-08-21 15:35:18,426 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:29)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:35:18,426 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:35:18,435 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@6200f9cb: startup date [Wed Aug 21 15:35:18 KST 2019]; root of context hierarchy
+2019-08-21 15:35:18,437 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:37)     - ==============================
+2019-08-21 15:35:18,437 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:38)     - =context=org.springframework.context.support.GenericXmlApplicationContext@6200f9cb: startup date [Wed Aug 21 15:35:18 KST 2019]; root of context hierarchy
+2019-08-21 15:35:18,437 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:39)     - =dao=com.ehr.UserDao@3c3d9b6b
+2019-08-21 15:35:18,437 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:40)     - ==============================
+2019-08-21 15:35:18,681 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:45)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:35:18,681 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:46)     - 99 tearDown()=
+2019-08-21 15:35:18,681 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:47)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:35:18,686 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:35:18,700 INFO  [main] support.GenericApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericApplicationContext@399c4be1: startup date [Wed Aug 21 15:35:18 KST 2019]; root of context hierarchy
+2019-08-21 15:35:18,755 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:24)     - context : org.springframework.context.support.GenericApplicationContext@399c4be1: startup date [Wed Aug 21 15:35:18 KST 2019]; root of context hierarchy
+2019-08-21 15:35:18,756 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:25)     - UserDaoJunitContext : com.ehr.UserDaoJunitContext@759d26fb
+2019-08-21 15:35:18,756 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:26)     - 01 setUp()
+2019-08-21 15:35:18,756 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:41)     - 02 addAndGet()
+2019-08-21 15:35:18,756 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:48)     - 03 tearDown()
+2019-08-21 15:35:18,757 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:24)     - context : org.springframework.context.support.GenericApplicationContext@399c4be1: startup date [Wed Aug 21 15:35:18 KST 2019]; root of context hierarchy
+2019-08-21 15:35:18,757 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:25)     - UserDaoJunitContext : com.ehr.UserDaoJunitContext@3d5c822d
+2019-08-21 15:35:18,757 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:26)     - 01 setUp()
+2019-08-21 15:35:18,757 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:33)     - 02 count()
+2019-08-21 15:35:18,757 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:48)     - 03 tearDown()
+2019-08-21 15:35:18,758 INFO  [Thread-1] support.GenericApplicationContext (AbstractApplicationContext.java:984)     - Closing org.springframework.context.support.GenericApplicationContext@399c4be1: startup date [Wed Aug 21 15:35:18 KST 2019]; root of context hierarchy
+2019-08-21 15:36:11,569 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:260)     - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-08-21 15:36:11,573 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:209)     - Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2019-08-21 15:36:11,580 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:187)     - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@153f5a29, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@7f560810, org.springframework.test.context.support.DirtiesContextTestExecutionListener@69d9c55, org.springframework.test.context.transaction.TransactionalTestExecutionListener@13a57a3b, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@7ca48474]
+2019-08-21 15:36:11,624 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:36:11,698 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@224edc67: startup date [Wed Aug 21 15:36:11 KST 2019]; root of context hierarchy
+2019-08-21 15:36:12,119 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:36:12,133 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@233795b6: startup date [Wed Aug 21 15:36:12 KST 2019]; root of context hierarchy
+2019-08-21 15:36:12,466 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:27)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:36:12,466 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:28)     - 0 setUp()=
+2019-08-21 15:36:12,467 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:29)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:36:12,468 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:36:12,481 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@24269709: startup date [Wed Aug 21 15:36:12 KST 2019]; root of context hierarchy
+2019-08-21 15:36:12,483 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:37)     - ==============================
+2019-08-21 15:36:12,483 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:38)     - =context=org.springframework.context.support.GenericXmlApplicationContext@24269709: startup date [Wed Aug 21 15:36:12 KST 2019]; root of context hierarchy
+2019-08-21 15:36:12,483 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:39)     - =dao=com.ehr.UserDao@247bddad
+2019-08-21 15:36:12,484 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:40)     - ==============================
+2019-08-21 15:36:12,485 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:104)     - ==============================
+2019-08-21 15:36:12,486 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:105)     - =01 삭제=
+2019-08-21 15:36:12,486 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:106)     - ==============================
+2019-08-21 15:36:12,586 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:114)     - ==============================
+2019-08-21 15:36:12,586 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:115)     - =02 단건등록=
+2019-08-21 15:36:12,586 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:116)     - ==============================
+2019-08-21 15:36:12,680 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:122)     - ==============================
+2019-08-21 15:36:12,681 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:123)     - =02.01 add flag=1
+2019-08-21 15:36:12,681 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:124)     - ==============================
+2019-08-21 15:36:12,681 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:128)     - ==============================
+2019-08-21 15:36:12,682 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:129)     - =03 단건조회
+2019-08-21 15:36:12,682 INFO  [Time-limited test] ehr.UserDaoJunit02 (UserDaoJunit02.java:130)     - ==============================
+2019-08-21 15:36:12,708 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:45)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:36:12,710 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:46)     - 99 tearDown()=
+2019-08-21 15:36:12,710 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:47)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:36:12,713 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:27)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:36:12,713 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:28)     - 0 setUp()=
+2019-08-21 15:36:12,714 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:29)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:36:12,715 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:36:12,724 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@131ef10: startup date [Wed Aug 21 15:36:12 KST 2019]; root of context hierarchy
+2019-08-21 15:36:12,726 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:37)     - ==============================
+2019-08-21 15:36:12,726 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:38)     - =context=org.springframework.context.support.GenericXmlApplicationContext@131ef10: startup date [Wed Aug 21 15:36:12 KST 2019]; root of context hierarchy
+2019-08-21 15:36:12,726 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:39)     - =dao=com.ehr.UserDao@305b7c14
+2019-08-21 15:36:12,726 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:40)     - ==============================
+2019-08-21 15:36:12,970 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:45)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:36:12,971 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:46)     - 99 tearDown()=
+2019-08-21 15:36:12,971 INFO  [main] ehr.UserDaoJunit02 (UserDaoJunit02.java:47)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:36:12,979 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:36:12,991 INFO  [main] support.GenericApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericApplicationContext@4961f6af: startup date [Wed Aug 21 15:36:12 KST 2019]; root of context hierarchy
+2019-08-21 15:36:13,046 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:24)     - context : org.springframework.context.support.GenericApplicationContext@4961f6af: startup date [Wed Aug 21 15:36:12 KST 2019]; root of context hierarchy
+2019-08-21 15:36:13,047 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:25)     - UserDaoJunitContext : com.ehr.UserDaoJunitContext@3fb1549b
+2019-08-21 15:36:13,047 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:26)     - 01 setUp()
+2019-08-21 15:36:13,047 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:41)     - 02 addAndGet()
+2019-08-21 15:36:13,047 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:48)     - 03 tearDown()
+2019-08-21 15:36:13,048 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:24)     - context : org.springframework.context.support.GenericApplicationContext@4961f6af: startup date [Wed Aug 21 15:36:12 KST 2019]; root of context hierarchy
+2019-08-21 15:36:13,048 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:25)     - UserDaoJunitContext : com.ehr.UserDaoJunitContext@4d02f94e
+2019-08-21 15:36:13,048 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:26)     - 01 setUp()
+2019-08-21 15:36:13,048 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:33)     - 02 count()
+2019-08-21 15:36:13,048 INFO  [main] ehr.UserDaoJunitContext (UserDaoJunitContext.java:48)     - 03 tearDown()
+2019-08-21 15:36:13,049 INFO  [Thread-1] support.GenericApplicationContext (AbstractApplicationContext.java:984)     - Closing org.springframework.context.support.GenericApplicationContext@4961f6af: startup date [Wed Aug 21 15:36:12 KST 2019]; root of context hierarchy
+2019-08-21 15:37:16,961 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:260)     - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-08-21 15:37:16,968 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:209)     - Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2019-08-21 15:37:16,968 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:187)     - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@4909b8da, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@3a03464, org.springframework.test.context.support.DirtiesContextTestExecutionListener@2d3fcdbd, org.springframework.test.context.transaction.TransactionalTestExecutionListener@617c74e5, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@6537cf78]
+2019-08-21 15:37:17,016 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:37:17,090 INFO  [main] support.GenericApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericApplicationContext@7823a2f9: startup date [Wed Aug 21 15:37:17 KST 2019]; root of context hierarchy
+2019-08-21 15:37:17,221 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:35)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:17,221 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:36)     - 0 setUp()=
+2019-08-21 15:37:17,221 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:37)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:17,222 INFO  [Time-limited test] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:37:17,240 INFO  [Time-limited test] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@70bdcd51: startup date [Wed Aug 21 15:37:17 KST 2019]; root of context hierarchy
+2019-08-21 15:37:17,244 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:45)     - ==============================
+2019-08-21 15:37:17,245 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:46)     - =context=org.springframework.context.support.GenericXmlApplicationContext@70bdcd51: startup date [Wed Aug 21 15:37:17 KST 2019]; root of context hierarchy
+2019-08-21 15:37:17,245 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:47)     - =dao=com.ehr.UserDao@e17f563
+2019-08-21 15:37:17,245 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:48)     - ==============================
+2019-08-21 15:37:17,245 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:112)     - ==============================
+2019-08-21 15:37:17,245 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:113)     - =01 삭제=
+2019-08-21 15:37:17,246 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:114)     - ==============================
+2019-08-21 15:37:17,565 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:122)     - ==============================
+2019-08-21 15:37:17,565 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:123)     - =02 단건등록=
+2019-08-21 15:37:17,565 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:124)     - ==============================
+2019-08-21 15:37:17,660 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:130)     - ==============================
+2019-08-21 15:37:17,660 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:131)     - =02.01 add flag=1
+2019-08-21 15:37:17,661 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:132)     - ==============================
+2019-08-21 15:37:17,661 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:136)     - ==============================
+2019-08-21 15:37:17,661 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:137)     - =03 단건조회
+2019-08-21 15:37:17,661 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:138)     - ==============================
+2019-08-21 15:37:17,684 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:53)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:17,684 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:54)     - 99 tearDown()=
+2019-08-21 15:37:17,684 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:55)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:17,686 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:35)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:17,686 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:36)     - 0 setUp()=
+2019-08-21 15:37:17,686 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:37)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:17,686 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:37:17,696 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@12e61fe6: startup date [Wed Aug 21 15:37:17 KST 2019]; root of context hierarchy
+2019-08-21 15:37:17,698 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:45)     - ==============================
+2019-08-21 15:37:17,698 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:46)     - =context=org.springframework.context.support.GenericXmlApplicationContext@12e61fe6: startup date [Wed Aug 21 15:37:17 KST 2019]; root of context hierarchy
+2019-08-21 15:37:17,698 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:47)     - =dao=com.ehr.UserDao@4b5a5ed1
+2019-08-21 15:37:17,698 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:48)     - ==============================
+2019-08-21 15:37:17,956 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:53)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:17,956 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:54)     - 99 tearDown()=
+2019-08-21 15:37:17,956 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:55)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:17,958 INFO  [Thread-1] support.GenericApplicationContext (AbstractApplicationContext.java:984)     - Closing org.springframework.context.support.GenericApplicationContext@7823a2f9: startup date [Wed Aug 21 15:37:17 KST 2019]; root of context hierarchy
+2019-08-21 15:37:57,663 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:260)     - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-08-21 15:37:57,670 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:209)     - Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2019-08-21 15:37:57,671 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:187)     - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@4909b8da, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@3a03464, org.springframework.test.context.support.DirtiesContextTestExecutionListener@2d3fcdbd, org.springframework.test.context.transaction.TransactionalTestExecutionListener@617c74e5, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@6537cf78]
+2019-08-21 15:37:57,717 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:37:57,791 INFO  [main] support.GenericApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericApplicationContext@7823a2f9: startup date [Wed Aug 21 15:37:57 KST 2019]; root of context hierarchy
+2019-08-21 15:37:57,923 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:35)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:57,923 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:36)     - 0 setUp()=
+2019-08-21 15:37:57,924 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:37)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:57,924 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:43)     - ==============================
+2019-08-21 15:37:57,924 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:44)     - =context=org.springframework.context.support.GenericApplicationContext@7823a2f9: startup date [Wed Aug 21 15:37:57 KST 2019]; root of context hierarchy
+2019-08-21 15:37:57,924 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:45)     - =dao=com.ehr.UserDao@369533e
+2019-08-21 15:37:57,924 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:46)     - ==============================
+2019-08-21 15:37:57,924 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:110)     - ==============================
+2019-08-21 15:37:57,924 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:111)     - =01 삭제=
+2019-08-21 15:37:57,925 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:112)     - ==============================
+2019-08-21 15:37:58,288 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:120)     - ==============================
+2019-08-21 15:37:58,289 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:121)     - =02 단건등록=
+2019-08-21 15:37:58,289 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:122)     - ==============================
+2019-08-21 15:37:58,406 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:128)     - ==============================
+2019-08-21 15:37:58,407 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:129)     - =02.01 add flag=1
+2019-08-21 15:37:58,407 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:130)     - ==============================
+2019-08-21 15:37:58,407 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:134)     - ==============================
+2019-08-21 15:37:58,408 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:135)     - =03 단건조회
+2019-08-21 15:37:58,408 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:136)     - ==============================
+2019-08-21 15:37:58,445 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:51)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:58,445 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:52)     - 99 tearDown()=
+2019-08-21 15:37:58,445 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:53)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:58,448 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:35)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:58,449 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:36)     - 0 setUp()=
+2019-08-21 15:37:58,449 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:37)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:58,449 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:43)     - ==============================
+2019-08-21 15:37:58,449 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:44)     - =context=org.springframework.context.support.GenericApplicationContext@7823a2f9: startup date [Wed Aug 21 15:37:57 KST 2019]; root of context hierarchy
+2019-08-21 15:37:58,449 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:45)     - =dao=com.ehr.UserDao@369533e
+2019-08-21 15:37:58,449 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:46)     - ==============================
+2019-08-21 15:37:58,718 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:51)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:58,718 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:52)     - 99 tearDown()=
+2019-08-21 15:37:58,718 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:53)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 15:37:58,720 INFO  [Thread-1] support.GenericApplicationContext (AbstractApplicationContext.java:984)     - Closing org.springframework.context.support.GenericApplicationContext@7823a2f9: startup date [Wed Aug 21 15:37:57 KST 2019]; root of context hierarchy
+2019-08-21 15:53:16,775 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:53:16,847 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@2471cca7: startup date [Wed Aug 21 15:53:16 KST 2019]; root of context hierarchy
+2019-08-21 15:53:17,329 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:53:17,347 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@6aba2b86: startup date [Wed Aug 21 15:53:17 KST 2019]; root of context hierarchy
+2019-08-21 15:53:28,933 INFO  [Time-limited test] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:53:29,008 INFO  [Time-limited test] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@13481216: startup date [Wed Aug 21 15:53:29 KST 2019]; root of context hierarchy
+2019-08-21 15:53:29,095 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:93)     - ==============================
+2019-08-21 15:53:29,096 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:94)     - =01 삭제=
+2019-08-21 15:53:29,096 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:95)     - ==============================
+2019-08-21 15:53:29,402 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:108)     - ==============================
+2019-08-21 15:53:29,402 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:109)     - =02 단건등록=
+2019-08-21 15:53:29,402 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:110)     - ==============================
+2019-08-21 15:53:29,502 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:116)     - ==============================
+2019-08-21 15:53:29,503 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:117)     - =02.01 add flag=1
+2019-08-21 15:53:29,503 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:118)     - ==============================
+2019-08-21 15:53:29,503 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:122)     - ==============================
+2019-08-21 15:53:29,503 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:123)     - =03 단건조회
+2019-08-21 15:53:29,503 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:124)     - ==============================
+2019-08-21 15:53:29,531 INFO  [Time-limited test] support.GenericXmlApplicationContext (AbstractApplicationContext.java:984)     - Closing org.springframework.context.support.GenericXmlApplicationContext@13481216: startup date [Wed Aug 21 15:53:29 KST 2019]; root of context hierarchy
+2019-08-21 15:53:29,532 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:53:29,554 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@1055e4af: startup date [Wed Aug 21 15:53:29 KST 2019]; root of context hierarchy
+2019-08-21 15:53:29,724 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:53:29,746 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@3a4afd8d: startup date [Wed Aug 21 15:53:29 KST 2019]; root of context hierarchy
+2019-08-21 15:53:42,825 INFO  [Time-limited test] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:53:42,900 INFO  [Time-limited test] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@13481216: startup date [Wed Aug 21 15:53:42 KST 2019]; root of context hierarchy
+2019-08-21 15:53:42,988 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:93)     - ==============================
+2019-08-21 15:53:42,989 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:94)     - =01 삭제=
+2019-08-21 15:53:42,989 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:95)     - ==============================
+2019-08-21 15:53:43,305 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:108)     - ==============================
+2019-08-21 15:53:43,305 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:109)     - =02 단건등록=
+2019-08-21 15:53:43,305 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:110)     - ==============================
+2019-08-21 15:53:43,408 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:116)     - ==============================
+2019-08-21 15:53:43,409 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:117)     - =02.01 add flag=1
+2019-08-21 15:53:43,409 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:118)     - ==============================
+2019-08-21 15:53:43,409 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:122)     - ==============================
+2019-08-21 15:53:43,409 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:123)     - =03 단건조회
+2019-08-21 15:53:43,410 INFO  [Time-limited test] ehr.UserDaoJunit  (UserDaoJunit.java:124)     - ==============================
+2019-08-21 15:53:43,443 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:53:43,459 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@1055e4af: startup date [Wed Aug 21 15:53:43 KST 2019]; root of context hierarchy
+2019-08-21 15:53:43,622 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 15:53:43,632 INFO  [main] support.GenericXmlApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericXmlApplicationContext@3a4afd8d: startup date [Wed Aug 21 15:53:43 KST 2019]; root of context hierarchy
+2019-08-21 16:01:00,843 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:260)     - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-08-21 16:01:00,851 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:209)     - Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2019-08-21 16:01:00,852 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:187)     - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@4909b8da, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@3a03464, org.springframework.test.context.support.DirtiesContextTestExecutionListener@2d3fcdbd, org.springframework.test.context.transaction.TransactionalTestExecutionListener@617c74e5, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@6537cf78]
+2019-08-21 16:01:00,899 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 16:01:00,976 INFO  [main] support.GenericApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericApplicationContext@7823a2f9: startup date [Wed Aug 21 16:01:00 KST 2019]; root of context hierarchy
+2019-08-21 16:01:01,113 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:35)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:01:01,113 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:36)     - 0 setUp()=
+2019-08-21 16:01:01,113 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:37)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:01:01,114 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:43)     - ==============================
+2019-08-21 16:01:01,114 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:44)     - =context=org.springframework.context.support.GenericApplicationContext@7823a2f9: startup date [Wed Aug 21 16:01:00 KST 2019]; root of context hierarchy
+2019-08-21 16:01:01,114 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:45)     - =dao=com.ehr.UserDao@4bc11bc8
+2019-08-21 16:01:01,114 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:46)     - ==============================
+2019-08-21 16:01:01,114 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:110)     - ==============================
+2019-08-21 16:01:01,114 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:111)     - =01 삭제=
+2019-08-21 16:01:01,114 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:112)     - ==============================
+2019-08-21 16:01:01,424 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:120)     - ==============================
+2019-08-21 16:01:01,424 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:121)     - =02 단건등록=
+2019-08-21 16:01:01,425 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:122)     - ==============================
+2019-08-21 16:01:01,514 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:128)     - ==============================
+2019-08-21 16:01:01,514 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:129)     - =02.01 add flag=1
+2019-08-21 16:01:01,514 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:130)     - ==============================
+2019-08-21 16:01:01,515 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:134)     - ==============================
+2019-08-21 16:01:01,515 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:135)     - =03 단건조회
+2019-08-21 16:01:01,515 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:136)     - ==============================
+2019-08-21 16:01:01,544 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:51)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:01:01,544 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:52)     - 99 tearDown()=
+2019-08-21 16:01:01,544 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:53)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:01:01,547 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:35)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:01:01,547 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:36)     - 0 setUp()=
+2019-08-21 16:01:01,547 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:37)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:01:01,547 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:43)     - ==============================
+2019-08-21 16:01:01,547 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:44)     - =context=org.springframework.context.support.GenericApplicationContext@7823a2f9: startup date [Wed Aug 21 16:01:00 KST 2019]; root of context hierarchy
+2019-08-21 16:01:01,548 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:45)     - =dao=com.ehr.UserDao@4bc11bc8
+2019-08-21 16:01:01,548 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:46)     - ==============================
+2019-08-21 16:01:01,805 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:51)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:01:01,805 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:52)     - 99 tearDown()=
+2019-08-21 16:01:01,806 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:53)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:01:01,811 INFO  [Thread-1] support.GenericApplicationContext (AbstractApplicationContext.java:984)     - Closing org.springframework.context.support.GenericApplicationContext@7823a2f9: startup date [Wed Aug 21 16:01:00 KST 2019]; root of context hierarchy
+2019-08-21 16:03:00,347 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:260)     - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-08-21 16:03:00,355 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:209)     - Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2019-08-21 16:03:00,356 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:187)     - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@4909b8da, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@3a03464, org.springframework.test.context.support.DirtiesContextTestExecutionListener@2d3fcdbd, org.springframework.test.context.transaction.TransactionalTestExecutionListener@617c74e5, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@6537cf78]
+2019-08-21 16:03:00,404 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 16:03:00,480 INFO  [main] support.GenericApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericApplicationContext@7823a2f9: startup date [Wed Aug 21 16:03:00 KST 2019]; root of context hierarchy
+2019-08-21 16:03:00,609 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:35)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:03:00,609 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:36)     - 0 setUp()=
+2019-08-21 16:03:00,609 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:37)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:03:00,610 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:43)     - ==============================
+2019-08-21 16:03:00,610 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:44)     - =context=org.springframework.context.support.GenericApplicationContext@7823a2f9: startup date [Wed Aug 21 16:03:00 KST 2019]; root of context hierarchy
+2019-08-21 16:03:00,610 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:45)     - =dao=com.ehr.UserDao@5bddf18c
+2019-08-21 16:03:00,610 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:46)     - ==============================
+2019-08-21 16:03:00,610 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:110)     - -------------------------------------------
+2019-08-21 16:03:00,610 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:111)     - =01 addAndGet()=
+2019-08-21 16:03:00,611 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:112)     - -------------------------------------------
+2019-08-21 16:03:00,611 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:114)     - ==============================
+2019-08-21 16:03:00,612 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:115)     - =01 삭제=
+2019-08-21 16:03:00,612 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:116)     - ==============================
+2019-08-21 16:03:00,884 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:124)     - ==============================
+2019-08-21 16:03:00,885 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:125)     - =02 단건등록=
+2019-08-21 16:03:00,885 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:126)     - ==============================
+2019-08-21 16:03:00,993 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:132)     - ==============================
+2019-08-21 16:03:00,993 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:133)     - =02.01 add flag=1
+2019-08-21 16:03:00,993 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:134)     - ==============================
+2019-08-21 16:03:00,997 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:138)     - ==============================
+2019-08-21 16:03:00,998 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:139)     - =03 단건조회
+2019-08-21 16:03:00,998 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:140)     - ==============================
+2019-08-21 16:03:01,025 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:51)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:03:01,026 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:52)     - 99 tearDown()=
+2019-08-21 16:03:01,026 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:53)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:03:01,029 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:35)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:03:01,029 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:36)     - 0 setUp()=
+2019-08-21 16:03:01,029 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:37)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:03:01,030 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:43)     - ==============================
+2019-08-21 16:03:01,030 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:44)     - =context=org.springframework.context.support.GenericApplicationContext@7823a2f9: startup date [Wed Aug 21 16:03:00 KST 2019]; root of context hierarchy
+2019-08-21 16:03:01,030 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:45)     - =dao=com.ehr.UserDao@5bddf18c
+2019-08-21 16:03:01,030 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:46)     - ==============================
+2019-08-21 16:03:01,030 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:73)     - -------------------------------------------
+2019-08-21 16:03:01,031 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:74)     - =01 count()=
+2019-08-21 16:03:01,031 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:75)     - -------------------------------------------
+2019-08-21 16:03:01,272 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:51)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:03:01,273 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:52)     - 99 tearDown()=
+2019-08-21 16:03:01,274 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:53)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:03:01,279 INFO  [Thread-1] support.GenericApplicationContext (AbstractApplicationContext.java:984)     - Closing org.springframework.context.support.GenericApplicationContext@7823a2f9: startup date [Wed Aug 21 16:03:00 KST 2019]; root of context hierarchy
+2019-08-21 16:04:20,213 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:260)     - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-08-21 16:04:20,217 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:209)     - Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2019-08-21 16:04:20,221 INFO  [main] support.DefaultTestContextBootstrapper (AbstractTestContextBootstrapper.java:187)     - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6df97b55, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@3cbbc1e0, org.springframework.test.context.support.DirtiesContextTestExecutionListener@35fb3008, org.springframework.test.context.transaction.TransactionalTestExecutionListener@7225790e, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@54a097cc]
+2019-08-21 16:04:20,269 INFO  [main] xml.XmlBeanDefinitionReader (XmlBeanDefinitionReader.java:317)     - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-21 16:04:20,343 INFO  [main] support.GenericApplicationContext (AbstractApplicationContext.java:583)     - Refreshing org.springframework.context.support.GenericApplicationContext@c038203: startup date [Wed Aug 21 16:04:20 KST 2019]; root of context hierarchy
+2019-08-21 16:04:20,474 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:36)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:04:20,474 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:37)     - 0 setUp()=
+2019-08-21 16:04:20,474 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:38)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:04:20,474 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:44)     - ==============================
+2019-08-21 16:04:20,475 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:45)     - =context=org.springframework.context.support.GenericApplicationContext@c038203: startup date [Wed Aug 21 16:04:20 KST 2019]; root of context hierarchy
+2019-08-21 16:04:20,475 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:46)     - =dao=com.ehr.UserDao@c0363d1
+2019-08-21 16:04:20,475 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:47)     - ==============================
+2019-08-21 16:04:20,475 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:110)     - -------------------------------------------
+2019-08-21 16:04:20,475 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:111)     - =01 addAndGet()=
+2019-08-21 16:04:20,475 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:112)     - -------------------------------------------
+2019-08-21 16:04:20,475 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:114)     - ==============================
+2019-08-21 16:04:20,476 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:115)     - =01 삭제=
+2019-08-21 16:04:20,476 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:116)     - ==============================
+2019-08-21 16:04:20,771 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:124)     - ==============================
+2019-08-21 16:04:20,771 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:125)     - =02 단건등록=
+2019-08-21 16:04:20,771 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:126)     - ==============================
+2019-08-21 16:04:20,862 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:132)     - ==============================
+2019-08-21 16:04:20,862 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:133)     - =02.01 add flag=1
+2019-08-21 16:04:20,862 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:134)     - ==============================
+2019-08-21 16:04:20,865 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:138)     - ==============================
+2019-08-21 16:04:20,865 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:139)     - =03 단건조회
+2019-08-21 16:04:20,865 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:140)     - ==============================
+2019-08-21 16:04:20,891 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:52)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:04:20,891 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:53)     - 99 tearDown()=
+2019-08-21 16:04:20,891 INFO  [Time-limited test] ehr.UserDaoJunit03 (UserDaoJunit03.java:54)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:04:20,893 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:36)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:04:20,893 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:37)     - 0 setUp()=
+2019-08-21 16:04:20,893 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:38)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:04:20,893 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:44)     - ==============================
+2019-08-21 16:04:20,893 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:45)     - =context=org.springframework.context.support.GenericApplicationContext@c038203: startup date [Wed Aug 21 16:04:20 KST 2019]; root of context hierarchy
+2019-08-21 16:04:20,893 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:46)     - =dao=com.ehr.UserDao@c0363d1
+2019-08-21 16:04:20,893 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:47)     - ==============================
+2019-08-21 16:04:20,894 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:59)     - -------------------------------------------
+2019-08-21 16:04:20,894 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:60)     - =01 getFailure()=
+2019-08-21 16:04:20,894 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:61)     - -------------------------------------------
+2019-08-21 16:04:21,032 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:52)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:04:21,032 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:53)     - 99 tearDown()=
+2019-08-21 16:04:21,032 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:54)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:04:21,033 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:36)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:04:21,033 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:37)     - 0 setUp()=
+2019-08-21 16:04:21,033 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:38)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:04:21,033 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:44)     - ==============================
+2019-08-21 16:04:21,034 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:45)     - =context=org.springframework.context.support.GenericApplicationContext@c038203: startup date [Wed Aug 21 16:04:20 KST 2019]; root of context hierarchy
+2019-08-21 16:04:21,034 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:46)     - =dao=com.ehr.UserDao@c0363d1
+2019-08-21 16:04:21,034 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:47)     - ==============================
+2019-08-21 16:04:21,034 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:73)     - -------------------------------------------
+2019-08-21 16:04:21,034 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:74)     - =01 count()=
+2019-08-21 16:04:21,034 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:75)     - -------------------------------------------
+2019-08-21 16:04:21,278 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:52)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:04:21,279 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:53)     - 99 tearDown()=
+2019-08-21 16:04:21,279 INFO  [main] ehr.UserDaoJunit03 (UserDaoJunit03.java:54)     - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2019-08-21 16:04:21,280 INFO  [Thread-1] support.GenericApplicationContext (AbstractApplicationContext.java:984)     - Closing org.springframework.context.support.GenericApplicationContext@c038203: startup date [Wed Aug 21 16:04:20 KST 2019]; root of context hierarchy

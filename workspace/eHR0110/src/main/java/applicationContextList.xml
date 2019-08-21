@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean id="collectionBeanList" class="com.ehr.list.CollectionBeanList">
+		<property name="addressList">
+			<list>
+				<value>서울시 마포구 월드컵북로 21 풍성빌딩</value>
+				<value>서울시 강남구 테란로 132(역삼동)</value>
+			</list>
+		</property>
+	</bean>
+</beans>
