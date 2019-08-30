@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:lang="http://www.springframework.org/schema/lang"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd
+		http://www.springframework.org/schema/lang http://www.springframework.org/schema/lang/spring-lang-4.3.xsd">
+	<!-- target Class -->
+	<bean id="memberSvcImp" class="com.ehr.service.MemberSvcImpl" />
+	<!-- Advice :  횡단 관(공통기능)심에 해당하는 기능. 독립된 클래스로 생성. -->
+	<bean id="memberAdvice" class="com.ehr.service.MemberAdvice" />
+	<!-- PointCut : 필터링된 조인 포인트: 원하는 특정 메소드에만 적용. -->
+	<bean id="memberPointCut" class="com.ehr.service.NameMatchClassPointCut">
+		<property name="mappedClassName" value="*SvcImpl" />
+		<property name="mappedName" value="do_*" />
+	</bean>
+	<!-- 어드바이져(advisor),애스팩트: Pointcut+Advice 필터링된 메소드에 advice메소드를 실행. -->
+	<bean id="hrAdvisor" class="org.springframework.aop.support.DefaultPointcutAdvisor">
+		<property name="advice" ref="memberAdvice" />
+		<property name="pointcut" ref="memberPointCut" />
+	</bean>
+	<!-- ProxyFactoryBean : 프록시를 이용한 런타임 위빙. 포인트컷으로 지정한 핵심 관심 메소드가 호출될때, 어드바이스에 해당하는 횡단관심에 메소드가 삽입되는 과정 -->
+	<bean id="memberProxy" class="org.springframework.aop.framework.ProxyFactoryBean">
+		<property name="target" ref="memberSvcImp" />
+		<property name="interceptorNames">
+			<list>
+				<value>hrAdvisor</value>
+			</list>
+		</property>
+	</bean>
+	
+</beans>
